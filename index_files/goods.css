@@ -1,0 +1,1806 @@
+.nav_list .cate_sort .cate_list {
+	DISPLAY: none
+}
+.list_attr {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: #d6d6d6 1px solid; MARGIN-TOP: 30px; BACKGROUND: #fafafa; HEIGHT: auto; OVERFLOW: hidden; BORDER-TOP: #d6d6d6 1px solid; BORDER-RIGHT: #d6d6d6 1px solid
+}
+.list_attr I {
+	FONT-STYLE: normal
+}
+.list_attr LI {
+	BORDER-BOTTOM: #d6d6d6 1px solid; LINE-HEIGHT: 60px; HEIGHT: 60px; BORDER-TOP: #fff 1px solid
+}
+.list_attr LI:first-child {
+	BORDER-TOP: 0px
+}
+.list_attr SPAN {
+	TEXT-ALIGN: center; WIDTH: 110px; BACKGROUND: #f0f0f0
+}
+.list_attr .attr A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; ZOOM: 1; DISPLAY: inline-block; MARGIN-RIGHT: 10px; PADDING-TOP: 0px
+}
+.list_attr .attr A:first-child {
+	MARGIN-LEFT: 10px
+}
+.list_attr .attr A I {
+	DISPLAY: none
+}
+.list_attr .attr A:hover {
+	BACKGROUND: #ff8a00; COLOR: #fff; TEXT-DECORATION: none; border-radius: 3px
+}
+.list_attr .attr A.cur {
+	BACKGROUND: #ff8a00; COLOR: #fff; TEXT-DECORATION: none; border-radius: 3px
+}
+.list_attr .attr A.cur I {
+	DISPLAY: inline; FONT-SIZE: 14px
+}
+.list_apply {
+	POSITION: relative; PADDING-BOTTOM: 20px; LINE-HEIGHT: 40px; MARGIN-TOP: 26px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #fff5e5; HEIGHT: 40px; BORDER-TOP: #ff5a00 2px solid; PADDING-TOP: 20px
+}
+.list_apply_com {
+	POSITION: relative; PADDING-LEFT: 37px; FLOAT: left; HEIGHT: 40px
+}
+.list_apply_tex {
+	BORDER-BOTTOM: #b2b2b2 1px solid; BORDER-LEFT: #b2b2b2 1px solid; LINE-HEIGHT: 38px; TEXT-INDENT: 13px; DISPLAY: block; FONT-FAMILY: "ËÎÌå"; FLOAT: left; HEIGHT: 38px; COLOR: #999; FONT-SIZE: 14px; BORDER-TOP: #b2b2b2 1px solid; MARGIN-RIGHT: 20px; BORDER-RIGHT: #b2b2b2 1px solid
+}
+.list_apply_name {
+	WIDTH: 198px
+}
+.list_apply_tel {
+	WIDTH: 248px
+}
+.list_apply_sub {
+	WIDTH: 160px; DISPLAY: block; FONT-FAMILY: "ËÎÌå"; BACKGROUND: #ff5a00; FLOAT: left; HEIGHT: 40px; COLOR: #fff; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.list_apply_right {
+	LINE-HEIGHT: 40px; FLOAT: right; HEIGHT: 40px
+}
+.list_apply_right H5 {
+	FONT-FAMILY: "ËÎÌå"; FLOAT: left; COLOR: #707070; FONT-SIZE: 14px; FONT-WEIGHT: bold; MARGIN-RIGHT: 15px
+}
+.list_apply_right UL {
+	DISPLAY: block; FLOAT: left
+}
+.list_apply_right UL LI {
+	WIDTH: 112px; DISPLAY: block; FONT-FAMILY: "ËÎÌå"; FLOAT: left; COLOR: #707070; FONT-SIZE: 14px
+}
+.list_apply_right UL LI I {
+	TEXT-ALIGN: center; LINE-HEIGHT: 26px; FONT-STYLE: normal; MARGIN: 8px 7px 0px 0px; WIDTH: 26px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/apply_icon.png) no-repeat -1px -1px; FLOAT: left; HEIGHT: 26px; COLOR: #ff5a00
+}
+.list_apply_right UL LI .cost {
+	FONT-FAMILY: "Î¢ÈíÑÅºÚ"; FONT-SIZE: 16px
+}
+.list_apply_com .tips {
+	POSITION: absolute; LINE-HEIGHT: 20px; BOTTOM: -20px; HEIGHT: 20px; COLOR: red; FONT-SIZE: 12px; LEFT: 37px
+}
+.list_cond {
+	PADDING-BOTTOM: 0px; MARGIN: 20px auto 30px; PADDING-LEFT: 10px; PADDING-RIGHT: 20px; BACKGROUND: #ededed; HEIGHT: 53px; PADDING-TOP: 0px
+}
+.list_cond_left {
+	POSITION: relative; LINE-HEIGHT: 20px; MARGIN-TOP: 17px; WIDTH: 520px; FLOAT: left; HEIGHT: 20px
+}
+.list_cond_left A {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; DISPLAY: block; FLOAT: left; COLOR: #4d4948; FONT-SIZE: 14px; BORDER-RIGHT: #d6d6d6 1px solid; PADDING-TOP: 0px
+}
+.list_cond_left A:hover {
+	COLOR: #ff9000; TEXT-DECORATION: none
+}
+.list_cond_left A B {
+	BORDER-BOTTOM: #e6e6e6 1px solid; BORDER-LEFT: #e6e6e6 1px solid; MARGIN: 3px 6px 0px 0px; WIDTH: 12px; DISPLAY: block; BACKGROUND: #fff; FLOAT: left; HEIGHT: 12px; BORDER-TOP: #e6e6e6 1px solid; BORDER-RIGHT: #e6e6e6 1px solid
+}
+.list_cond_left A B.tehui_c {
+	BACKGROUND: url(http://img.oppein.cn/images/regist_icon.png) no-repeat -17px -184px
+}
+.list_cond_left .price_img0 {
+	POSITION: absolute; WIDTH: 6px; BACKGROUND: url(http://img.oppein.cn/images/list_icon.png) -96px -51px; HEIGHT: 14px; TOP: 0px; RIGHT: 13px
+}
+.list_cond_left .price_img1 {
+	POSITION: absolute; WIDTH: 6px; BACKGROUND: url(http://img.oppein.cn/images/list_icon.png) -111px -51px; HEIGHT: 14px; TOP: 0px; RIGHT: 13px
+}
+.list_cond_left A.al {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.list_cond_left .list_inp {
+	BORDER-BOTTOM: #e6e6e6 1px solid; BORDER-LEFT: #e6e6e6 1px solid; LINE-HEIGHT: 18px; MARGIN: 0px 15px; WIDTH: 40px; DISPLAY: inline-block; BACKGROUND: #ffffff; FLOAT: left; HEIGHT: 18px; BORDER-TOP: #e6e6e6 1px solid; BORDER-RIGHT: #e6e6e6 1px solid
+}
+.list_cond_left .list_inp INPUT {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; LINE-HEIGHT: 18px; WIDTH: 40px; HEIGHT: 18px; COLOR: #4d4948; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.list_cond_left INPUT.a1 {
+	POSITION: absolute; WIDTH: 80px; BACKGROUND: #ededed; COLOR: #4d4948; FONT-SIZE: 14px
+}
+.list_cond_left INPUT.a1:hover {
+	COLOR: #ff8a00
+}
+.list_cond_left FONT {
+	FLOAT: left
+}
+.list_cond_left .list_sort {
+	POSITION: absolute; TOP: 4px; RIGHT: 5px
+}
+.list_cond_left .sort_up {
+	BORDER-BOTTOM: #ff9000 5px solid; BORDER-LEFT: transparent 5px solid; WIDTH: 0px; DISPLAY: none; HEIGHT: 0px; BORDER-RIGHT: transparent 5px solid
+}
+.list_cond_left .sort_down {
+	BORDER-LEFT: transparent 5px solid; MARGIN-TOP: 2px; WIDTH: 0px; DISPLAY: none; HEIGHT: 0px; BORDER-TOP: #a09c9b 5px solid; BORDER-RIGHT: transparent 5px solid
+}
+.list_cond_left .asc {
+	COLOR: #ff9000
+}
+.list_cond_left .desc {
+	COLOR: #ff9000
+}
+.list_cond_left .desc .sort_up {
+	BORDER-BOTTOM: #a09c9b 5px solid; DISPLAY: block
+}
+.list_cond_left .desc .sort_down {
+	DISPLAY: block; BORDER-TOP: #ff9000 5px solid
+}
+.list_cond_left .asc .sort_up {
+	DISPLAY: block
+}
+.list_cond_left .asc .sort_down {
+	DISPLAY: block
+}
+.list_cond_right {
+	LINE-HEIGHT: 20px; MARGIN-TOP: 17px; FLOAT: right; HEIGHT: 20px
+}
+.list_cond_right A {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #999999; PADDING-TOP: 2px
+}
+.list_cond_right A:hover {
+	COLOR: #ff8a00; TEXT-DECORATION: none
+}
+.list_cond_right A.click {
+	COLOR: #ff8a00; TEXT-DECORATION: none
+}
+.send_mobile {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 28px; WIDTH: 120px; BOTTOM: 20px; DISPLAY: none; BACKGROUND: #f16f0d; HEIGHT: 28px; COLOR: #fff; LEFT: 10px
+}
+.send_mobile I {
+	WIDTH: 10px; DISPLAY: inline-block; BACKGROUND: url(http://img.oppein.cn/images/mobile.png) no-repeat; HEIGHT: 16px; VERTICAL-ALIGN: middle
+}
+.send_mobile:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.send_img {
+	DISPLAY: none
+}
+.send_img .design_con {
+	HEIGHT: 302px
+}
+.send_img .design_bg {
+	HEIGHT: 312px
+}
+.send_img .design_info {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 20px
+}
+.send_img .design_info .desing_submit {
+	MARGIN-TOP: 35px
+}
+.send_img .des_sub {
+	LINE-HEIGHT: 35px; DISPLAY: inline-block
+}
+.send_img .des_sub:hover {
+	TEXT-DECORATION: none
+}
+.send_img .inp_con {
+	POSITION: relative
+}
+.send_img .inp_con .mobile_inp {
+	BORDER-BOTTOM: #bfbfbf 2px solid; BORDER-LEFT: #bfbfbf 1px solid; LINE-HEIGHT: 35px; MARGIN: 20px 0px; PADDING-LEFT: 5px; WIDTH: 325px; HEIGHT: 35px; COLOR: #999; BORDER-TOP: #bfbfbf 2px solid; BORDER-RIGHT: #bfbfbf 1px solid
+}
+.send_img .inp_con .yz_inp {
+	BORDER-BOTTOM: #bfbfbf 1px solid; BORDER-LEFT: #bfbfbf 1px solid; LINE-HEIGHT: 35px; TEXT-INDENT: 5px; WIDTH: 140px; HEIGHT: 35px; COLOR: #999; VERTICAL-ALIGN: middle; BORDER-TOP: #bfbfbf 1px solid; BORDER-RIGHT: #bfbfbf 1px solid
+}
+.send_img .inp_con .mtips {
+	POSITION: absolute; BOTTOM: -25px; DISPLAY: none; COLOR: #ff000c; LEFT: 0px
+}
+.send_img .send_tips {
+	TEXT-ALIGN: center; MARGIN-TOP: 5px; COLOR: #ff000c
+}
+.send_sucess .sucess_con {
+	HEIGHT: 170px
+}
+.send_sucess .sucess_bg {
+	HEIGHT: 180px
+}
+.list_goods {
+	HEIGHT: auto
+}
+.width_1220 {
+	PADDING-LEFT: 4px; OVERFLOW: hidden
+}
+.list_goods DIV.goods {
+	BORDER-BOTTOM: #fff 1px solid; POSITION: relative; BORDER-LEFT: #fff 1px solid; WIDTH: 294px; MARGIN-BOTTOM: 10px; FLOAT: left; HEIGHT: 333px; COLOR: #716c6a; BORDER-TOP: #fff 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 2px
+}
+.list_goods DIV.goods EM {
+	FONT-STYLE: normal
+}
+.list_goods DIV.goods .img_bg {
+	POSITION: relative; TEXT-ALIGN: center; DISPLAY: block; PADDING-TOP: 0px
+}
+.list_goods DIV.goods .img_bg .img_bg_link {
+	WIDTH: 290px; DISPLAY: inline-block; HEIGHT: 216px; OVERFLOW: hidden
+}
+.list_goods DIV.goods .star {
+	POSITION: absolute; WIDTH: 52px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/list_icon.png) no-repeat -1px 1px; HEIGHT: 40px; TOP: -5px; RIGHT: 10px
+}
+.list_goods DIV.goods H3 {
+	POSITION: relative; LINE-HEIGHT: 35px; MARGIN: 0px auto; PADDING-LEFT: 5px; WIDTH: 289px; HEIGHT: 35px
+}
+.list_goods DIV.goods H3 SPAN {
+	POSITION: absolute; COLOR: #e6e6e6; TOP: 0px; RIGHT: 5px; FONT-WEIGHT: normal
+}
+.list_goods DIV.goods H3 SPAN I {
+	MARGIN: 12px 5px 0px 0px; WIDTH: 13px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/list_icon.png) -55px -54px; FLOAT: left; HEIGHT: 11px
+}
+.list_goods DIV.goods H3 .goods_tits {
+	WIDTH: 235px; DISPLAY: block; HEIGHT: 35px; OVERFLOW: hidden
+}
+.list_goods DIV.goods P {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 42px; PADDING-RIGHT: 5px; HEIGHT: 36px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.list_goods DIV.goods P FONT {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 16px; MARGIN-TOP: 1px; WIDTH: 32px; DISPLAY: block; BACKGROUND: #ff8a00; HEIGHT: 16px; COLOR: #ffffff; FONT-SIZE: 12px; LEFT: 5px
+}
+.list_goods DIV.goods DIV {
+	DISPLAY: none; PADDING-TOP: 7px
+}
+.list_goods DIV.goods DIV SPAN {
+	LINE-HEIGHT: 26px; WIDTH: 106px; DISPLAY: inline-block; FLOAT: left; HEIGHT: 26px; COLOR: #ffffff; MARGIN-LEFT: 28px; CURSOR: pointer
+}
+.list_goods DIV.goods DIV SPAN.span1 {
+	BACKGROUND: #ff6c00
+}
+.list_goods DIV.goods DIV SPAN.span1 I {
+	MARGIN: 6px 3px 0px 20px; WIDTH: 16px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/list_icon.png) -14px -54px; FLOAT: left; HEIGHT: 14px
+}
+.list_goods DIV.goods DIV SPAN.span2 {
+	BACKGROUND: #716c6a
+}
+.list_goods DIV.goods DIV SPAN.span2 I {
+	MARGIN: 6px 3px 0px 32px; WIDTH: 14px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/list_icon.png) -34px -53px; FLOAT: left; HEIGHT: 14px
+}
+.list_goods DIV.goods:hover {
+	BORDER-BOTTOM: #e6e6e6 1px solid; BORDER-LEFT: #e6e6e6 1px solid; BORDER-TOP: #e6e6e6 1px solid; BORDER-RIGHT: #e6e6e6 1px solid; TEXT-DECORATION: none; box-shadow: 0px 3px 5px rgba(110, 110, 110, 0.2)
+}
+.list_goods DIV.goods:hover .send_mobile {
+	DISPLAY: block
+}
+.list_goods DIV.goods:hover DIV {
+	DISPLAY: block
+}
+.list_goods DIV.goods:hover H3 SPAN {
+	COLOR: #ff9000
+}
+.list_goods DIV.goods:hover H3 SPAN I {
+	BACKGROUND: url(http://img.oppein.cn/images/list_icon.png) -75px -54px; COLOR: #ff8a00
+}
+.list_goods DIV.next {
+	POSITION: relative; PADDING-BOTTOM: 10px; WIDTH: 295px; FLOAT: left; HEIGHT: 350px; COLOR: #716c6a
+}
+.list_goods .recom .goods {
+	WIDTH: 234px; HEIGHT: 250px
+}
+.list_goods .recom .goods IMG {
+	WIDTH: 230px
+}
+.list_goods .recom .goods DIV SPAN {
+	MARGIN-LEFT: 20px
+}
+DIV.next .next_content {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 285px; DISPLAY: block; BACKGROUND: #ededed; HEIGHT: 222px
+}
+.next_content .next_img {
+	POSITION: absolute; MARGIN-TOP: -41px; WIDTH: 165px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/list_icon.png) 0px -68px; HEIGHT: 82px; MARGIN-LEFT: -82px; TOP: 50%; CURSOR: pointer; LEFT: 50%
+}
+.list_page {
+	PADDING-BOTTOM: 0px; MARGIN: 10px auto 70px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: #ededed; HEIGHT: 53px; PADDING-TOP: 0px
+}
+.list_page_left {
+	MARGIN-TOP: 17px; FLOAT: left; HEIGHT: 20px; COLOR: #4d4948
+}
+.list_page_right {
+	LINE-HEIGHT: 20px; MARGIN-TOP: 17px; FLOAT: left; HEIGHT: 20px; MARGIN-LEFT: 30px
+}
+.list_page_right A {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #999999; FONT-SIZE: 14px; PADDING-TOP: 2px
+}
+.list_page_right A:hover {
+	BACKGROUND: #ff8a00; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.list_page_right A.click {
+	BACKGROUND: #ff8a00; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.list_article {
+	HEIGHT: 280px; BORDER-TOP: #e5e5e5 1px solid; PADDING-TOP: 2px
+}
+.list_article UL {
+	BORDER-LEFT: #e5e5e5 1px solid; HEIGHT: 278px; BORDER-TOP: #e5e5e5 1px solid
+}
+.list_article UL LI {
+	BORDER-BOTTOM: #e5e5e5 1px solid; PADDING-BOTTOM: 30px; PADDING-LEFT: 30px; WIDTH: 241px; PADDING-RIGHT: 30px; FLOAT: left; HEIGHT: 217px; BORDER-RIGHT: #e5e5e5 1px solid; PADDING-TOP: 30px
+}
+.list_article UL LI DT {
+	MARGIN-BOTTOM: 10px; HEIGHT: 23px; COLOR: #716c6a; FONT-SIZE: 14px; OVERFLOW: hidden; FONT-WEIGHT: bold
+}
+.list_article UL LI DD IMG {
+	WIDTH: 111px; MARGIN-BOTTOM: 15px; FLOAT: left; HEIGHT: 77px
+}
+.list_article UL LI DD P {
+	LINE-HEIGHT: 18px; WIDTH: 100px; DISPLAY: inline; FLOAT: left; HEIGHT: 77px; COLOR: #716c6a; MARGIN-LEFT: 10px
+}
+.list_article UL LI DD P SPAN {
+	LINE-HEIGHT: 25px; WIDTH: 100px; DISPLAY: block; HEIGHT: 25px; COLOR: #716c6a; OVERFLOW: hidden; FONT-WEIGHT: bold
+}
+.list_article UL LI OL {
+	WIDTH: 215px; CLEAR: both
+}
+.list_article UL LI OL LI {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: none; HEIGHT: 20px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.list_article UL LI OL LI A {
+	WIDTH: 215px; TEXT-OVERFLOW: ellipsis; DISPLAY: block; WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+.list_choose H3 {
+	MARGIN-BOTTOM: 6px; COLOR: #716c6a; FONT-SIZE: 14px
+}
+.list_choose P {
+	LINE-HEIGHT: 43px; COLOR: #3d3d3d
+}
+.list_choose UL LI {
+	TEXT-ALIGN: center; MARGIN: 9px 15px 0px 0px; WIDTH: 230px; FLOAT: left; HEIGHT: 216px; OVERFLOW: hidden
+}
+.list_choose UL LI A {
+	TEXT-DECORATION: none
+}
+.list_choose UL LI IMG {
+	WIDTH: 230px; HEIGHT: 172px
+}
+.list_choose UL LI:hover {
+	BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid; WIDTH: 228px; BACKGROUND: #ededed; HEIGHT: 205px; BORDER-TOP: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid; PADDING-TOP: 9px; box-shadow: 0px 3px 5px rgba(110, 110, 110, 0.2)
+}
+.list_choose UL LI:hover IMG {
+	WIDTH: 210px; HEIGHT: 162px
+}
+.list_choose UL LI:hover P {
+	COLOR: #ff5a00
+}
+.decor_project {
+	OVERFLOW: hidden
+}
+.decor_project .decor_tit {
+	MARGIN: 48px 0px 14px; COLOR: #716c6a; FONT-SIZE: 14px
+}
+.decor_project .project_le {
+	POSITION: relative; WIDTH: 500px; FLOAT: left; HEIGHT: 319px; OVERFLOW: hidden
+}
+.decor_project .project_le .ban_img UL {
+	WIDTH: 10000px
+}
+.decor_project .project_le .ban_img UL LI {
+	WIDTH: 500px; FLOAT: left; HEIGHT: 319px
+}
+.decor_project .project_le .ban_img UL LI IMG {
+	WIDTH: 500px; HEIGHT: 319px
+}
+.decor_project .project_le .ban_num {
+	POSITION: absolute; BOTTOM: 10px; LEFT: 147px
+}
+.decor_project .project_le .ban_num UL LI {
+	POSITION: relative; WIDTH: 40px; FLOAT: left; HEIGHT: 20px; COLOR: #b7b7b7; MARGIN-LEFT: 1px; FONT-SIZE: 14px; CURSOR: pointer
+}
+.decor_project .project_le .ban_num DIV {
+	FILTER: alpha(opacity=60); WIDTH: 100%; BACKGROUND: #000; HEIGHT: 100%; opacity: 0.6; -moz-opacity: 0.6
+}
+.decor_project .project_le .ban_num SPAN {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 20px; WIDTH: 100%; DISPLAY: block; TOP: 0px; LEFT: 0px
+}
+.decor_project .project_le .ban_num .cur {
+	COLOR: #fff
+}
+.decor_project .project_le .ban_num .cur DIV {
+	BACKGROUND: red
+}
+.decor_project .stra_con {
+	BORDER-LEFT: #e6e6e6 1px solid; PADDING-LEFT: 16px; FLOAT: left; HEIGHT: 319px; MARGIN-LEFT: 12px; OVERFLOW: hidden
+}
+.decor_project .first {
+	PADDING-LEFT: 13px
+}
+.decor_project .stra_con H3 {
+	BORDER-LEFT: #ff5a00 3px solid; MARGIN: 2px 0px 9px; PADDING-LEFT: 7px; COLOR: #716c6a; FONT-SIZE: 12px
+}
+.decor_project .stra_con IMG {
+	WIDTH: 220px; HEIGHT: 110px
+}
+.decor_project .stra_con .st_list {
+	MARGIN-TOP: 10px
+}
+.decor_project .stra_con .st_list LI {
+	LINE-HEIGHT: 29px; WIDTH: 220px; HEIGHT: 29px; COLOR: #3d3d3d; OVERFLOW: hidden
+}
+.decor_project .styles .stra_con {
+	WIDTH: 185px
+}
+.decor_project .styles .stra_con UL LI {
+	BORDER-BOTTOM: #bfbfbf 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #bfbfbf 1px solid; LINE-HEIGHT: 26px; MARGIN-TOP: 15px; WIDTH: 86px; BACKGROUND: #f7f7f7; FLOAT: left; HEIGHT: 26px; BORDER-TOP: #bfbfbf 1px solid; BORDER-RIGHT: #bfbfbf 1px solid
+}
+.decor_project .styles .stra_con UL LI A {
+	WIDTH: 100%; DISPLAY: block
+}
+.decor_project .styles .stra_con .sty_ma {
+	MARGIN-LEFT: 9px
+}
+.decor_project .styles .stra_con .sty_wd {
+	WIDTH: 183px
+}
+.decor_project .styles .stra_con UL LI:hover {
+	BORDER-BOTTOM: #ff5a00 1px solid; BORDER-LEFT: #ff5a00 1px solid; BACKGROUND: #fff5e5; BORDER-TOP: #ff5a00 1px solid; BORDER-RIGHT: #ff5a00 1px solid
+}
+.decor_project .styles .stra_con UL LI:hover A {
+	COLOR: #ff5a00; TEXT-DECORATION: none
+}
+.wrap_404_con {
+	PADDING-BOTTOM: 85px; LINE-HEIGHT: 30px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 960px; PADDING-RIGHT: 0px; FONT-SIZE: 16px; OVERFLOW: hidden; PADDING-TOP: 60px
+}
+.wrap_404_con .img_404 {
+	FLOAT: left
+}
+.wrap_404_con .info_404 {
+	MARGIN: 45px 0px 0px 100px; FLOAT: left
+}
+.wrap_404_con .info_404 B {
+	PADDING-BOTTOM: 15px; DISPLAY: block; FONT-SIZE: 18px
+}
+.wrap_404_con .info_404 .operate_404 P {
+	TEXT-INDENT: 1em
+}
+.wrap_404_con .info_404 A {
+	COLOR: #ff9000; TEXT-DECORATION: underline
+}
+.wrap_404_con .info_404 .count {
+	COLOR: #ff6000
+}
+.wrap_404_con .info_404 SPAN {
+	LINE-HEIGHT: 50px; TEXT-INDENT: 1em; DISPLAY: inline-block; FLOAT: left; HEIGHT: 40px; MARGIN-RIGHT: 10px
+}
+.wrap_404_con .info_404 .search {
+	WIDTH: 268px; BACKGROUND: #716c6a; FLOAT: left; HEIGHT: 40px; VERTICAL-ALIGN: middle
+}
+.wrap_404_con .info_404 .search_txt {
+	LINE-HEIGHT: 34px; MARGIN: 3px 0px 3px 3px; PADDING-LEFT: 10px; WIDTH: 200px; HEIGHT: 34px
+}
+.wrap_404_con .info_404 .search_sub {
+	WIDTH: 55px; BACKGROUND: #716c6a; HEIGHT: 40px; COLOR: #fff
+}
+.location {
+	LINE-HEIGHT: 30px; HEIGHT: 30px; COLOR: #716c6a
+}
+.location A {
+	COLOR: #b3b3b3
+}
+.details {
+	BORDER-BOTTOM: #e6e6e6 1px solid; BORDER-LEFT: #e6e6e6 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #fff; HEIGHT: auto; OVERFLOW: hidden; BORDER-TOP: #e6e6e6 1px solid; BORDER-RIGHT: #e6e6e6 1px solid; PADDING-TOP: 10px; box-shadow: 0px 3px 8px rgba(110, 110, 110, 0.2)
+}
+.details_top {
+	PADDING-BOTTOM: 50px; OVERFLOW: hidden
+}
+.details_top_left {
+	WIDTH: 700px; FLOAT: left
+}
+.details_top_left .goods_large {
+	POSITION: relative; WIDTH: 700px; HEIGHT: 525px
+}
+.details_top_left IMG#goods_large {
+	WIDTH: 700px; HEIGHT: 525px
+}
+.details_top_left .goods_large .large_left {
+	DISPLAY: none
+}
+.details_top_left .goods_large .large_right {
+	DISPLAY: none
+}
+.details_top_left .goods_large .large_btn .goods_left {
+	POSITION: absolute; FILTER: alpha(opacity=30); MARGIN-TOP: -33px; WIDTH: 35px; BACKGROUND: #000000; HEIGHT: 66px; TOP: 50%; CURSOR: pointer; LEFT: 0px; opacity: 0.3; -moz-opacity: 0.3; -khtml-opacity: 0.3
+}
+.details_top_left .goods_large .large_btn .drie_left {
+	Z-INDEX: 999; POSITION: absolute; MARGIN-TOP: -11px; WIDTH: 12px; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -121px 0px; HEIGHT: 22px; TOP: 50%; CURSOR: pointer; LEFT: 11px
+}
+.details_top_left .goods_large .large_btn .goods_right {
+	POSITION: absolute; FILTER: alpha(opacity=30); MARGIN-TOP: -33px; WIDTH: 35px; BACKGROUND: #000000; HEIGHT: 66px; TOP: 50%; CURSOR: pointer; RIGHT: 0px; opacity: 0.3; -moz-opacity: 0.3; -khtml-opacity: 0.3
+}
+.details_top_left .goods_large .large_btn .drie_right {
+	Z-INDEX: 999; POSITION: absolute; MARGIN-TOP: -11px; WIDTH: 12px; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -133px 0px; HEIGHT: 22px; TOP: 50%; CURSOR: pointer; RIGHT: 11px
+}
+.details_top_left .goods_large .large_btn .current {
+	FILTER: alpha(opacity=100); opacity: 1
+}
+.details_top_left .goods_large:hover .send_mobile {
+	DISPLAY: block
+}
+.details_top_left .goods_simages_list {
+	POSITION: relative; MARGIN: 20px auto 15px; WIDTH: 700px; HEIGHT: 116px
+}
+.details_top_left .goods_simages_list .goods_thumb_bg {
+	MARGIN: 0px auto; WIDTH: 615px; OVERFLOW: hidden
+}
+.details_top_left .goods_simages_list .goods_simgages_thumb {
+	WIDTH: 2000px
+}
+.details_top_left .goods_simages_list .goods_simgages_thumb LI {
+	FLOAT: left; CURSOR: pointer; MARGIN-RIGHT: 5px
+}
+.details_top_left .goods_simages_list .goods_simgages_thumb .alpha IMG {
+	FILTER: alpha(opacity=50); opacity: 0.5
+}
+.details_top_left .goods_simages_list IMG {
+	WIDTH: 150px; HEIGHT: 115px
+}
+.details_top_left .goods_simages_list .direction {
+	Z-INDEX: 999; BORDER-BOTTOM: #e5e5e5 1px solid; POSITION: absolute; BORDER-LEFT: #e5e5e5 1px solid; WIDTH: 25px; HEIGHT: 114px; BORDER-TOP: #e5e5e5 1px solid; TOP: 0px; BORDER-RIGHT: #e5e5e5 1px solid
+}
+.details_top_left .goods_simages_list .direct_l {
+	LEFT: 0px
+}
+.details_top_left .goods_simages_list .direct_r {
+	RIGHT: 0px
+}
+.details_top_left .goods_simages_list #simages_left {
+	DISPLAY: block; BACKGROUND: #f5f5f5; CURSOR: pointer; LEFT: 0px
+}
+.details_top_left .goods_simages_list #simages_left:hover {
+	BACKGROUND: #eee
+}
+.details_top_left .goods_simages_list #simages_left I {
+	POSITION: absolute; MARGIN-TOP: -10px; WIDTH: 12px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -66px 0px; HEIGHT: 21px; MARGIN-LEFT: -6px; TOP: 50%; LEFT: 50%
+}
+.details_top_left .goods_simages_list #simages_right {
+	BACKGROUND: #f5f5f5; CURSOR: pointer; RIGHT: 0px
+}
+.details_top_left .goods_simages_list #simages_right:hover {
+	BACKGROUND: #eee
+}
+.details_top_left .goods_simages_list #simages_right I {
+	POSITION: absolute; MARGIN-TOP: -10px; WIDTH: 12px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -78px 0px; HEIGHT: 21px; MARGIN-LEFT: -6px; TOP: 50%; LEFT: 50%
+}
+#article_rec {
+	BORDER-BOTTOM: #e5e5e5 1px solid
+}
+#article_rec LI {
+	LINE-HEIGHT: 24px
+}
+#article_rec LI A {
+	FONT-WEIGHT: normal
+}
+.details_top_right {
+	WIDTH: 440px; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 40px
+}
+.details_top_right H1 {
+	LINE-HEIGHT: 25px; FONT-FAMILY: "ËÎÌå"; COLOR: #000; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.details_top_right H1 FONT {
+	FONT-FAMILY: "ËÎÌå"; COLOR: #b3b3b3; MARGIN-LEFT: 10px; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.details_top_right .material {
+	BORDER-BOTTOM: #e5e5e5 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 20px; COLOR: #000
+}
+.details_top_right .price {
+	PADDING-BOTTOM: 10px; LINE-HEIGHT: 25px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.details_top_right .price .font1 {
+	FLOAT: left; COLOR: #716c6a
+}
+.details_top_right .price .font2 {
+	COLOR: #b3b3b3
+}
+.details_top_right .price .font3 {
+	FONT-FAMILY: "Î¢ÈíÑÅºÚ"; COLOR: #ff6c00; FONT-SIZE: 25px; FONT-WEIGHT: bold
+}
+.details_top_right .price .font4 {
+	COLOR: #b3b3b3; TEXT-DECORATION: line-through
+}
+.details_top_right .sales {
+	POSITION: relative; MARGIN-TOP: 5px; HEIGHT: 50px; OVERFLOW: hidden
+}
+.details_top_right .sales .sales_num {
+	Z-INDEX: 1000; POSITION: absolute; COLOR: #b3b3b3; RIGHT: 5px
+}
+.details_top_right .sales .sales_num EM {
+	COLOR: #f65207
+}
+.details_top_right .sales .sales_list {
+	Z-INDEX: 1000; POSITION: absolute; PADDING-LEFT: 15px; WIDTH: 363px; BACKGROUND: #fff; LEFT: 60px
+}
+.details_top_right .sales .sales_list SPAN {
+	COLOR: #f65207
+}
+.details_top_right .sales .sales_list A {
+	COLOR: #b3b3b3; TEXT-DECORATION: underline
+}
+.details_top_right .goods_attr {
+	MARGIN: 5px auto 18px; PADDING-LEFT: 37px; WIDTH: 400px; BACKGROUND: #f2f2f2; MAX-HEIGHT: 200px
+}
+.details_top_right .submit_tips {
+	PADDING-BOTTOM: 15px; COLOR: #b3b3b3; margint-top: 15px
+}
+.goods_attr DIV {
+	LINE-HEIGHT: 40px; CLEAR: both
+}
+.goods_attr DIV SPAN {
+	TEXT-ALIGN: right; WIDTH: 70px; FLOAT: left; HEIGHT: 40px; COLOR: #716c6a; OVERFLOW: hidden
+}
+.goods_attr DIV SPAN.padding {
+	PADDING-RIGHT: 10px
+}
+.goods_attr DIV SPAN.letter {
+	PADDING-LEFT: 11px; LETTER-SPACING: 11px
+}
+.goods_attr .select_list {
+	Z-INDEX: 999; BORDER-BOTTOM: #e6e6e6 1px solid; POSITION: relative; BORDER-LEFT: #e6e6e6 1px solid; PADDING-BOTTOM: 2px; MARGIN-TOP: 5px; PADDING-LEFT: 2px; WIDTH: 86px; PADDING-RIGHT: 2px; BACKGROUND: #fff; FLOAT: left; HEIGHT: 21px; BORDER-TOP: #e6e6e6 1px solid; BORDER-RIGHT: #e6e6e6 1px solid; PADDING-TOP: 2px; _width: 87px
+}
+.goods_attr .select_list UL {
+	Z-INDEX: 999; BORDER-BOTTOM: #e6e6e6 1px solid; POSITION: absolute; BORDER-LEFT: #e6e6e6 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; WIDTH: 64px; PADDING-RIGHT: 2px; DISPLAY: none; BACKGROUND: #ffffff; FLOAT: left; HEIGHT: auto; OVERFLOW: hidden; BORDER-TOP: medium none; TOP: 25px; BORDER-RIGHT: #e6e6e6 1px solid; PADDING-TOP: 2px; LEFT: -1px
+}
+.goods_attr .select_list UL LI {
+	BORDER-BOTTOM: #e5e5e5 1px solid; BORDER-LEFT: #e5e5e5 1px solid; LINE-HEIGHT: 21px; MARGIN: 2px 0px; BORDER-TOP: #e5e5e5 1px solid; BORDER-RIGHT: #e5e5e5 1px solid
+}
+.goods_attr .select_list UL LI IMG {
+	DISPLAY: block; CURSOR: pointer
+}
+.goods_attr .select_click {
+	CURSOR: pointer
+}
+.goods_attr .select_click EM {
+	BORDER-LEFT: #e5e5e5 1px solid; WIDTH: 19px; DISPLAY: block; BACKGROUND: #ffffff; FLOAT: right; HEIGHT: 21px
+}
+.goods_attr .select_click SPAN {
+	MARGIN: 8px auto; WIDTH: 7px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -170px 0px; FLOAT: none; HEIGHT: 6px
+}
+.goods_attr DIV A.select_a {
+	Z-INDEX: 1; BORDER-BOTTOM: #e6e6e6 1px solid; POSITION: relative; BORDER-LEFT: #e6e6e6 1px solid; PADDING-BOTTOM: 3px; MARGIN-TOP: 5px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; DISPLAY: block; BACKGROUND: #fff; FLOAT: left; BORDER-TOP: #e6e6e6 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #e6e6e6 1px solid; PADDING-TOP: 3px
+}
+.goods_attr DIV A.select_a SPAN {
+	Z-INDEX: 1; POSITION: absolute; WIDTH: 12px; BOTTOM: -1px; DISPLAY: none; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -152px 0px; HEIGHT: 12px; RIGHT: -2px
+}
+.goods_attr DIV A.click {
+	BORDER-BOTTOM: #ff6c00 2px solid; BORDER-LEFT: #ff6c00 2px solid; MARGIN-TOP: 4px; BORDER-TOP: #ff6c00 2px solid; BORDER-RIGHT: #ff6c00 2px solid
+}
+.goods_attr DIV A.click SPAN {
+	DISPLAY: block
+}
+.goods_attr DIV A.select_a IMG {
+	LINE-HEIGHT: 21px; WIDTH: 64px; DISPLAY: block; HEIGHT: 21px; OVERFLOW: hidden
+}
+.goods_attr DIV FONT.font5 {
+	COLOR: #b3b3b3; MARGIN-RIGHT: 5px
+}
+.goods_attr DIV FONT.font5 A {
+	COLOR: #b3b3b3; MARGIN-RIGHT: 5px
+}
+.details_top_right .submit {
+	MARGIN: 0px; WIDTH: 215px
+}
+.details_top_right .submit .submit_btn {
+	FONT-FAMILY: "ËÎÌå"; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.details_prd_apply {
+	WIDTH: 445px; BACKGROUND: #fff5e5; HEIGHT: 240px; BORDER-TOP: #ff5a00 2px solid
+}
+.details_prd_apply H3 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 52px; FONT-FAMILY: "ºÚÌå"; HEIGHT: 52px; COLOR: #000; FONT-SIZE: 22px; FONT-WEIGHT: normal
+}
+.details_prd_apply H3 SPAN {
+	COLOR: #ff5a00
+}
+.details_prd_apply_com {
+	MARGIN: 0px auto; WIDTH: 320px
+}
+.details_prd_apply_tex {
+	BORDER-BOTTOM: #b2b2b2 1px solid; BORDER-LEFT: #b2b2b2 1px solid; LINE-HEIGHT: 33px; TEXT-INDENT: 12px; WIDTH: 100%; FONT-FAMILY: "ËÎÌå"; MARGIN-BOTTOM: 7px; HEIGHT: 33px; COLOR: #999; FONT-SIZE: 12px; BORDER-TOP: #b2b2b2 1px solid; BORDER-RIGHT: #b2b2b2 1px solid
+}
+.details_prd_apply_com .province {
+	BORDER-BOTTOM: #b2b2b2 1px solid; POSITION: relative; BORDER-LEFT: #b2b2b2 1px solid; LINE-HEIGHT: 33px; WIDTH: 148px; BACKGROUND: #fff; HEIGHT: 33px; BORDER-TOP: #b2b2b2 1px solid; BORDER-RIGHT: #b2b2b2 1px solid
+}
+.details_prd_apply_com .province SELECT {
+	BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: medium none; LINE-HEIGHT: 33px; WIDTH: 100%; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 33px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.details_prd_apply_com .province SPAN {
+	POSITION: absolute; WIDTH: 23px; DISPLAY: block; BACKGROUND: #f0f1f2; HEIGHT: 100%; TOP: 0px; RIGHT: 0px
+}
+.details_prd_apply_com .province SPAN I {
+	MARGIN: 14px 0px 0px 7px; WIDTH: 9px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/apply_icon.png) no-repeat -32px -1px; HEIGHT: 5px
+}
+.details_prd_apply_com .tips {
+	TEXT-ALIGN: center; LINE-HEIGHT: 17px; HEIGHT: 17px; COLOR: red; FONT-SIZE: 12px
+}
+.details_prd_apply_sub {
+	LINE-HEIGHT: 35px; WIDTH: 100%; FONT-FAMILY: "ËÎÌå"; BACKGROUND: #ff5a00; HEIGHT: 35px; COLOR: #fff; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.details_prd_off {
+	WIDTH: 445px; OVERFLOW: hidden
+}
+.details_prd_off H2 {
+	LINE-HEIGHT: 35px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; COLOR: #808080; FONT-SIZE: 22px
+}
+.details_prd_off .prd_tj {
+	MARGIN: 20px 0px 11px; COLOR: #999
+}
+.details_prd_off .prd_tj_img {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; WIDTH: 429px; PADDING-RIGHT: 8px; BACKGROUND: #f5f5f5; HEIGHT: 354px; PADDING-TOP: 0px
+}
+.details_prd_off .prd_tj_img UL LI {
+	WIDTH: 136px; FLOAT: left; HEIGHT: 167px; OVERFLOW: hidden; MARGIN-RIGHT: 10px; PADDING-TOP: 10px
+}
+.details_prd_off .prd_tj_img UL LI .tj_img_li {
+	WIDTH: 136px; DISPLAY: block; HEIGHT: 102px; OVERFLOW: hidden
+}
+.details_prd_off .prd_tj_img UL LI .tj_img_li IMG {
+	WIDTH: 136px; HEIGHT: 102px
+}
+.details_prd_off .prd_tj_img P {
+	MARGIN-TOP: 10px
+}
+.details_prd_off .prd_tj_img .tj_img_tit {
+	DISPLAY: block; COLOR: #666
+}
+.details_prd_off .prd_tj_img .tj_img_tit:hover {
+	COLOR: #ff6c00
+}
+.details_prd_off .prd_tj_img SPAN {
+	COLOR: #ff6c00
+}
+.share_btn .bds_tsina {
+	MARGIN: 5px 0px 5px 10px; PADDING-RIGHT: 10px; BORDER-RIGHT: #e6e6e6 1px solid
+}
+.share_btn .bds_qzone {
+	MARGIN: 5px 0px 5px 10px; PADDING-RIGHT: 10px; BORDER-RIGHT: #e6e6e6 1px solid
+}
+.share_btn .bds_tqq {
+	MARGIN: 5px 0px 5px 10px
+}
+.details_bottom {
+	HEIGHT: auto; OVERFLOW: hidden
+}
+.details_bottom_left {
+	WIDTH: 250px; FLOAT: left; HEIGHT: auto; OVERFLOW: hidden
+}
+.details_bottom_left UL {
+	BORDER-LEFT: #e5e5e5 1px solid; WIDTH: 248px; BORDER-RIGHT: #e5e5e5 1px solid
+}
+.details_bottom_left UL LI {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 34px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; HEIGHT: auto; COLOR: #716c6a; OVERFLOW: hidden; CURSOR: pointer; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.details_bottom_left UL#goods_class LI {
+	BORDER-BOTTOM: #e5e5e5 1px solid
+}
+.details_bottom_left UL LI SPAN {
+	POSITION: absolute; WIDTH: 9px; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -41px -93px; HEIGHT: 5px; TOP: 16px; RIGHT: 12px
+}
+.details_bottom_left UL LI .class_list {
+	MARGIN: 0px auto; WIDTH: 200px; DISPLAY: none; OVERFLOW: hidden
+}
+.details_bottom_left UL LI.click SPAN {
+	BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -41px -88px
+}
+.details_bottom_left UL LI .class_list A {
+	WIDTH: 100px; DISPLAY: block; FLOAT: left; HEIGHT: 34px; COLOR: #716c6a; OVERFLOW: hidden; FONT-WEIGHT: normal
+}
+.details_bottom_left UL LI .class_list A:hover {
+	COLOR: #ff6c00; TEXT-DECORATION: underline
+}
+.details_bottom_left .list_title {
+	BORDER-BOTTOM: #e5e5e5 1px solid; BORDER-LEFT: #e5e5e5 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 34px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: #f5f5f5; HEIGHT: auto; COLOR: #716c6a; FONT-SIZE: 14px; OVERFLOW: hidden; BORDER-TOP: #e5e5e5 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #e5e5e5 1px solid; PADDING-TOP: 0px
+}
+.details_bottom_left DIV.hot_list {
+	MARGIN-TOP: 20px
+}
+.details_bottom_left UL.hot_list LI {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; FONT-WEIGHT: normal; PADDING-TOP: 12px
+}
+.details_bottom_left UL.hot_list LI P {
+	TEXT-ALIGN: center
+}
+.details_bottom_left UL.hot_list {
+	BORDER-BOTTOM: #e5e5e5 1px solid
+}
+.details_bottom_left UL.hot_list LI IMG {
+	WIDTH: 230px; DISPLAY: block; HEIGHT: 173px
+}
+.details_bottom_left UL.hot_list LI FONT.font_left {
+	COLOR: #ff6c00; FONT-WEIGHT: bold
+}
+.details_bottom_left UL.hot_list LI FONT.font_right {
+	FLOAT: right; COLOR: #b3b3b3
+}
+.details_bottom_left UL.hot_list LI SPAN {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 18px; WIDTH: 20px; DISPLAY: block; BACKGROUND: #ff6c00; HEIGHT: 18px; COLOR: #ffffff; TOP: 12px; LEFT: 9px
+}
+.details_bottom_left .add_img {
+	WIDTH: 250px; HEIGHT: 150px
+}
+.details_bottom_right {
+	WIDTH: 909px; DISPLAY: inline; FLOAT: left; HEIGHT: auto; MARGIN-LEFT: 20px
+}
+.details_bottom_right .goods_desc_title {
+	Z-INDEX: 999; WIDTH: 909px; MARGIN-BOTTOM: 40px; BACKGROUND: #f5f5f5; HEIGHT: 47px
+}
+.goods_desc_title A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 47px; WIDTH: 112px; DISPLAY: block; FLOAT: left; COLOR: #716c6a; FONT-SIZE: 14px
+}
+.goods_desc_title A:hover {
+	BACKGROUND: url(http://img.oppein.cn/images/goods_desc_title_bg.png) repeat-x; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.goods_desc_title A.click {
+	BACKGROUND: url(http://img.oppein.cn/images/goods_desc_title_bg.png) repeat-x; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.details_bottom_right .goods_desc_content {
+	BORDER-LEFT: #e3e2e1 1px solid; PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; WIDTH: 888px; HEIGHT: auto
+}
+.goods_desc_content H1 {
+	POSITION: relative; LINE-HEIGHT: 44px; BACKGROUND: url(http://img.oppein.cn/images/h1_bg.png); HEIGHT: 44px
+}
+.goods_desc_content H1.h1 {
+	TOP: -22px
+}
+.goods_desc_content H1 I {
+	POSITION: absolute; WIDTH: 11px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -40px -69px; HEIGHT: 11px; TOP: 15px; LEFT: -26px
+}
+.goods_desc_content H1 SPAN {
+	POSITION: absolute; WIDTH: 19px; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -40px -42px; HEIGHT: 19px; TOP: 13px; RIGHT: 0px
+}
+.goods_desc_content H1 P {
+	WIDTH: 80px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; BACKGROUND: #ffffff; FONT-SIZE: 18px
+}
+.goods_desc_content H1 P .font_color1 {
+	COLOR: #4d4948
+}
+.goods_desc_content H1 P .font_color2 {
+	COLOR: #ff6c00
+}
+.goods_desc_content .desc_img {
+	MARGIN: 0px auto; WIDTH: 850px; DISPLAY: block; HEIGHT: 636px
+}
+.goods_desc_content .td1 {
+	TEXT-ALIGN: center; WIDTH: 114px; BACKGROUND: #808080; HEIGHT: 36px; COLOR: #ffffff
+}
+.goods_desc_content .td2 {
+	PADDING-LEFT: 15px; WIDTH: 441px; BACKGROUND: #ffffff; COLOR: #000
+}
+.goods_desc_content .td3 {
+	PADDING-LEFT: 45px; BACKGROUND: #ffffff; HEIGHT: 36px; COLOR: #000
+}
+.goods_desc_content .td4 {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 35px; WIDTH: 279px; PADDING-RIGHT: 20px; BACKGROUND: #ffffff; COLOR: #716c6a; FONT-SIZE: 12px; VERTICAL-ALIGN: top; PADDING-TOP: 20px
+}
+.goods_desc_content TABLE DIV {
+	LINE-HEIGHT: 30px; HEIGHT: 30px; FONT-SIZE: 15px; FONT-WEIGHT: bold
+}
+.goods_desc_content TABLE DIV FONT {
+	FONT-WEIGHT: normal
+}
+.goods_desc_content .p_list {
+	LINE-HEIGHT: 30px; HEIGHT: 30px; COLOR: #b3b3b3; MARGIN-LEFT: 50px
+}
+.goods_desc_content .fun_title {
+	BORDER-LEFT: #e0e0e0 3px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 15px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; COLOR: #7a7573; FONT-SIZE: 18px
+}
+.fun_title FONT {
+	COLOR: #ff6c00; FONT-SIZE: 25px
+}
+.goods_desc_content .fun_content {
+	MARGIN: 30px auto; HEIGHT: 490px
+}
+.fun_content IMG {
+	FLOAT: left
+}
+.fun_content UL {
+	WIDTH: 214px; FLOAT: right; HEIGHT: auto; OVERFLOW: hidden
+}
+.fun_content UL LI {
+	MARGIN-TOP: 14px; WIDTH: 214px; DISPLAY: block; MARGIN-BOTTOM: 25px; BACKGROUND: url(http://img.oppein.cn/images/fun_list_bg.png); HEIGHT: 100px
+}
+.fun_content UL LI .fun_i_left {
+	WIDTH: 8px; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) 0px 0px; FLOAT: left; HEIGHT: 100px
+}
+.fun_content UL LI .fun_i_right {
+	MARGIN-TOP: -46px; WIDTH: 8px; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -9px 0px; FLOAT: right; HEIGHT: 100px
+}
+.fun_content UL LI H3 {
+	LINE-HEIGHT: 25px; MARGIN: 0px auto; WIDTH: 180px; HEIGHT: 25px; COLOR: #716c6a
+}
+.fun_content UL LI P {
+	LINE-HEIGHT: 22px; MARGIN: 0px auto; WIDTH: 180px; HEIGHT: 22px; COLOR: #716c6a
+}
+.goods_desc_content .set_meal_img1 {
+	PADDING-BOTTOM: 18px; MARGIN: 0px auto; PADDING-LEFT: 18px; WIDTH: 850px; PADDING-RIGHT: 18px; DISPLAY: block; BACKGROUND: #f5f5f5; PADDING-TOP: 18px
+}
+.goods_desc_content .set_meal_img2 {
+	WIDTH: 563px; DISPLAY: block; FLOAT: left; HEIGHT: 500px
+}
+.goods_desc_content .set_meal_img3 {
+	MARGIN: 0px auto 9px; WIDTH: 276px; DISPLAY: block; HEIGHT: 256px
+}
+.goods_desc_content .set_meal_img4 {
+	MARGIN: 0px auto; WIDTH: 276px; DISPLAY: block; HEIGHT: 235px
+}
+.set_meal_title {
+	FILTER: alpha(opacity=50); LINE-HEIGHT: 24px; MARGIN-TOP: -24px; PADDING-LEFT: 5px; BACKGROUND: #ff6c00; HEIGHT: 24px; COLOR: #ffffff; opacity: 0.5; -moz-opacity: 0.5; -khtml-opacity: 0.5
+}
+.goods_desc_content .set_meal_list {
+	MARGIN: 0px auto; WIDTH: 850px
+}
+.set_meal_list DL {
+	MARGIN: 20px 14px; WIDTH: 254px; FLOAT: left
+}
+.set_meal_list DL DT {
+	MARGIN-BOTTOM: 15px; HEIGHT: 178px
+}
+.set_meal_list DL DD {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; COLOR: #716c6a; PADDING-TOP: 0px
+}
+.goode_desc_img1 {
+	MARGIN: 0px auto; WIDTH: 850px; HEIGHT: auto; OVERFLOW: hidden
+}
+.goode_desc_img1 .img1_left {
+	FLOAT: left
+}
+.goode_desc_img1 .img1_right {
+	WIDTH: 275px; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px
+}
+.ol_list1 {
+	MARGIN: 20px auto; WIDTH: 850px; HEIGHT: auto; OVERFLOW: hidden
+}
+.ol_list1 LI {
+	MARGIN: 0px 35px 0px 30px; WIDTH: 360px; FLOAT: left
+}
+.ol_list1 LI IMG {
+	FLOAT: left; MARGIN-RIGHT: 20px
+}
+.ol_list1 LI DL {
+	MARGIN-TOP: 40px; COLOR: #716c6a
+}
+.ol_list1 LI DT {
+	LINE-HEIGHT: 30px; HEIGHT: 30px; FONT-WEIGHT: bold
+}
+.goods_list_title {
+	MARGIN-BOTTOM: 10px; HEIGHT: 199px
+}
+.goods_list_title H2 {
+	LINE-HEIGHT: 42px; MARGIN-TOP: 45px; WIDTH: 500px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; FLOAT: left; COLOR: #666666; FONT-SIZE: 30px
+}
+.goods_list_title H2 FONT {
+	COLOR: #ff6c00; FONT-SIZE: 35px
+}
+.goods_list_title IMG {
+	FLOAT: right
+}
+.goods_list_content {
+	WIDTH: 908px; HEIGHT: auto; OVERFLOW: hidden
+}
+.goods_list_content DL {
+	WIDTH: 202px; MARGIN-BOTTOM: 20px; FLOAT: left; MARGIN-RIGHT: 25px
+}
+.goods_list_content DL DT {
+	HEIGHT: 159px
+}
+.goods_list_content DL DD {
+	LINE-HEIGHT: 25px; COLOR: #716c6a
+}
+.goods_desc_content EM {
+	FONT-STYLE: normal
+}
+.goods_desc_content I {
+	FONT-STYLE: normal
+}
+.goods_desc_content .details_info_show .door_show_list {
+	TEXT-ALIGN: center
+}
+.goods_desc_content .tit_icon {
+	POSITION: relative; LINE-HEIGHT: 44px; MARGIN: 45px 0px; BACKGROUND: url(http://img.oppein.cn/images/h1_bg.png); HEIGHT: 44px
+}
+.goods_desc_content .tit_icon I {
+	POSITION: absolute; WIDTH: 19px; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -40px -42px; HEIGHT: 19px; TOP: 13px; RIGHT: 0px
+}
+.goods_desc_content .door_choose .tit_icon SPAN {
+	WIDTH: 280px; DISPLAY: block; FONT-FAMILY: "ºÚÌå"; BACKGROUND: #fff; HEIGHT: 44px; COLOR: #4d4948; FONT-SIZE: 20px
+}
+.door_choose .tit_icon SPAN EM {
+	COLOR: #ff6c00
+}
+.door_choose .choose_list .reason {
+	MARGIN-TOP: 65px; WIDTH: 885px; BACKGROUND: url(http://img.oppein.cn/images/door_tit.png) no-repeat; HEIGHT: 62px; FONT-WEIGHT: bold
+}
+.door_choose .choose_list LI .reason .reason_info {
+	POSITION: relative; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; TOP: 18px
+}
+.door_choose .choose_list LI .reason .reason_info SPAN {
+	MARGIN: 0px 100px 0px 105px; COLOR: #ffae00; FONT-SIZE: 40px
+}
+.door_choose .choose_list LI .reason .reason_info EM {
+	COLOR: #fff; FONT-SIZE: 34px
+}
+.door_choose .choose_list LI .intr {
+	LINE-HEIGHT: 35px; MARGIN: 40px 0px 10px; WIDTH: 720px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; COLOR: #666; FONT-SIZE: 24px; FONT-WEIGHT: bold
+}
+.door_choose .choose_list LI .plant {
+	PADDING-BOTTOM: 30px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #e6e6e6 1px solid; PADDING-TOP: 30px
+}
+.door_choose .choose_list LI .plant P {
+	PADDING-BOTTOM: 10px; COLOR: #666
+}
+.door_choose .choose_list LI B {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 32px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; COLOR: #666; FONT-SIZE: 24px; PADDING-TOP: 45px
+}
+.door_choose .choose_list LI .fd_tit {
+	WIDTH: 540px
+}
+.door_choose .choose_list LI .stre OL {
+	COLOR: #999
+}
+.door_choose .choose_list .heath_list {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #f9f8f0; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.door_choose .choose_list .heath_list LI {
+	FLOAT: left; MARGIN-LEFT: 28px
+}
+.door_choose .choose_list .heath_list LI:first-child {
+	MARGIN-LEFT: 5px
+}
+.door_choose .choose_list .heath_list LI IMG {
+	FLOAT: left
+}
+.door_choose .choose_list .heath_list DL {
+	TEXT-ALIGN: left; LINE-HEIGHT: 24px; PADDING-LEFT: 20px; WIDTH: 110px; FLOAT: left
+}
+.door_choose .choose_list .heath_list DT {
+	COLOR: #000; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.door_choose .choose_list LI .fd_show {
+	OVERFLOW: hidden
+}
+.door_choose .choose_list LI .fd_show DIV {
+	POSITION: relative; WIDTH: 435px; FLOAT: left
+}
+.door_choose .choose_list LI .fd_show DIV:first-child {
+	MARGIN-RIGHT: 15px
+}
+.door_choose .choose_list LI .fd_show DIV P {
+	POSITION: absolute; FILTER: alpha(opacity=60); WIDTH: 100%; BOTTOM: 0px; BACKGROUND: #000; HEIGHT: 32px; LEFT: 0px; opacity: 0.6
+}
+.door_choose .choose_list LI .fd_show DIV SPAN {
+	POSITION: absolute; BOTTOM: 6px; COLOR: #fff; FONT-SIZE: 14px; LEFT: 10px
+}
+.door_choose .choose_list LI .safe_list {
+	OVERFLOW: hidden
+}
+.door_choose .choose_list LI .safe_list .list {
+	OVERFLOW: hidden
+}
+.door_choose .choose_list LI .safe_list .list P {
+	PADDING-TOP: 5px
+}
+.door_choose .choose_list LI .safe_list LI {
+	WIDTH: 292px; FLOAT: left; MARGIN-LEFT: 6px; _display: none
+}
+.door_choose .choose_list LI .safe_list .first {
+	MARGIN-LEFT: 0px
+}
+.door_choose .choose_list LI .safe_list .comprise IMG {
+	FLOAT: left
+}
+.door_choose .choose_list LI .safe_list .comprise P {
+	WIDTH: 465px; BACKGROUND: #f9f8f0; FLOAT: left; HEIGHT: 175px
+}
+.door_choose .choose_list LI .quality_list LI {
+	OVERFLOW: hidden
+}
+.door_choose .choose_list LI .quality_list .list_first {
+	MARGIN-BOTTOM: 15px; HEIGHT: 302px
+}
+.door_choose .choose_list LI .quality_list .list {
+	heisght: 175px
+}
+.door_choose .choose_list LI .quality_list IMG {
+	FLOAT: left
+}
+.door_choose .choose_list LI .quality_list P {
+	WIDTH: 200px; BACKGROUND: #f9f8f0; FLOAT: left; HEIGHT: 175px
+}
+.door_choose .choose_list LI .quality_list P SPAN {
+	MARGIN: 60px auto; WIDTH: 168px; DISPLAY: block; COLOR: #4c4c4c; FONT-SIZE: 14px
+}
+.door_choose .choose_list LI .quality_list .safe {
+	FONT-SIZE: 16px; OVERFLOW: hidden
+}
+.door_choose .choose_list LI .quality_list .safe P {
+	WIDTH: 445px
+}
+.door_choose .choose_list LI .quality_list .safe P SPAN {
+	WIDTH: 350px
+}
+.door_choose .choose_list LI .quality_list .safe P EM {
+	DISPLAY: block; FONT-WEIGHT: bold
+}
+.door_choose .choose_list LI .quality_list .list_first P {
+	HEIGHT: 302px
+}
+.door_choose .choose_list LI .quality_list .list_first P SPAN {
+	MARGIN: 122px auto
+}
+.door_choose .choose_list LI .respect LI {
+	OVERFLOW: hidden
+}
+.door_choose .choose_list LI .respect .list {
+	FLOAT: left
+}
+.door_choose .choose_list LI .respect .list IMG {
+	FLOAT: left
+}
+.door_choose .choose_list LI .respect .list P {
+	WIDTH: 245px; BACKGROUND: #f9f8f0; FLOAT: left; HEIGHT: 300px
+}
+.door_choose .choose_list LI .respect .list P SPAN {
+	MARGIN: 120px auto; WIDTH: 180px; DISPLAY: block; FONT-SIZE: 14px
+}
+.door_choose .choose_list LI .respect .info {
+	BORDER-LEFT: #e5e5e5 1px solid; PADDING-BOTTOM: 20px; LINE-HEIGHT: 25px; PADDING-LEFT: 30px; WIDTH: 420px; PADDING-RIGHT: 0px; FLOAT: left; COLOR: #999; MARGIN-LEFT: 10px; FONT-SIZE: 14px; PADDING-TOP: 20px
+}
+.door_choose .choose_list LI .respect .info EM {
+	COLOR: #333; FONT-WEIGHT: bold
+}
+.door_choose .choose_list LI .human {
+	MARGIN-TOP: 50px; OVERFLOW: hidden
+}
+.door_choose .choose_list LI .human LI {
+	WIDTH: 210px; FLOAT: left; MARGIN-LEFT: 12px; _display: inline
+}
+.door_choose .choose_list LI .human LI P {
+	MARGIN: 10px auto; WIDTH: 160px
+}
+.door_choose .choose_list LI .free IMG {
+	MARGIN-TOP: 15px
+}
+.door_choose .choose_list LI .free B {
+	PADDING-BOTTOM: 5px
+}
+.door_choose .choose_list LI .free P {
+	COLOR: #666
+}
+.door_choose .choose_list LI .free .train {
+	OVERFLOW: hidden
+}
+.door_choose .choose_list LI .free .train P {
+	MARGIN: 15px 11px 0px 0px; WIDTH: 195px; BACKGROUND: #f9f8f0; FLOAT: left; HEIGHT: 198px; PADDING-TOP: 40px
+}
+.door_choose .choose_list LI .free .train IMG {
+	FLOAT: left
+}
+.door_choose .choose_list LI .free .train EM {
+	PADDING-LEFT: 12px; DISPLAY: block; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.door_choose .choose_list LI .free .train SPAN {
+	LINE-HEIGHT: 30px; MARGIN: 0px auto; WIDTH: 170px; DISPLAY: block
+}
+.door_choose .choose_list LI .free .server {
+	OVERFLOW: hidden
+}
+.door_choose .choose_list LI .free .server IMG {
+	FLOAT: left
+}
+.door_choose .choose_list LI .free .server P {
+	PADDING-BOTTOM: 50px; MARGIN: 15px 0px 0px 11px; PADDING-LEFT: 20px; WIDTH: 280px; PADDING-RIGHT: 20px; FONT-FAMILY: "ºÚÌå"; BACKGROUND: #f9f8f0; FLOAT: left; HEIGHT: 138px; PADDING-TOP: 50px
+}
+.door_choose .choose_list LI .free .server P EM {
+	DISPLAY: block; FONT-SIZE: 24px; FONT-WEIGHT: bold
+}
+.door_choose .choose_list LI .free .server P I {
+	LINE-HEIGHT: 40px; MARGIN: 15px 0px; DISPLAY: block; COLOR: #ff6c00; FONT-SIZE: 40px
+}
+.door_choose .choose_list LI .free .server P SPAN {
+	DISPLAY: block; COLOR: #666; FONT-SIZE: 18px
+}
+.goods_desc_content .chest_show_list {
+	TEXT-ALIGN: center
+}
+.goods_desc_content .chest_show_list IMG {
+	MARGIN-BOTTOM: 20px
+}
+.chest H4 {
+	PADDING-BOTTOM: 40px; LINE-HEIGHT: 52px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; MARGIN-BOTTOM: 10px; HEIGHT: 62px; COLOR: #716c6a; FONT-SIZE: 25px; PADDING-TOP: 40px
+}
+.chest H4 I {
+	WIDTH: 41px; DISPLAY: block; FLOAT: left; HEIGHT: 66px; MARGIN-RIGHT: 20px
+}
+.chest H4.h4_1 I {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) 0px -168px
+}
+.chest H4.h4_2 I {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) 0px -233px
+}
+.chest H4.h4_3 I {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) 0px -299px
+}
+.chest H4 FONT {
+	COLOR: #ff6c00; FONT-SIZE: 50px
+}
+.chest H4 EM {
+	LINE-HEIGHT: 10px; DISPLAY: block; FONT-SIZE: 18px
+}
+.chest_det_one {
+	POSITION: relative; LEFT: 10px
+}
+.chest_det_one .det_one_list {
+	OVERFLOW: hidden
+}
+.chest_det_one .det_one_list LI {
+	TEXT-ALIGN: center; WIDTH: 208px; MARGIN-BOTTOM: 15px; FLOAT: left; HEIGHT: 210px; MARGIN-RIGHT: 12px
+}
+.chest_det_one .det_one_list LI IMG {
+	WIDTH: 206px; HEIGHT: 166px
+}
+.chest_det_one .det_one_list LI P {
+	MARGIN-TOP: 15px
+}
+.chest_det_two .list {
+	POSITION: relative; PADDING-BOTTOM: 40px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; MARGIN-BOTTOM: 20px; BACKGROUND: #f7f7f7; HEIGHT: 370px; PADDING-TOP: 40px
+}
+.chest_det_two .list .list_left {
+	WIDTH: 404px; FLOAT: left; MARGIN-RIGHT: 20px
+}
+.chest_det_two .list .list_left .list_tit {
+	WIDTH: 450px
+}
+.chest_det_two .list .list_left .list_tit I {
+	FLOAT: left
+}
+.chest_det_two .list .list_left .list_tit P {
+	LINE-HEIGHT: 28px; PADDING-LEFT: 70px; FONT-FAMILY: "ºÚÌå"; COLOR: #4c4c4c; FONT-SIZE: 24px
+}
+.chest_det_two .list .list_left .info_intro {
+	LINE-HEIGHT: 25px; TEXT-INDENT: 2em; MARGIN: 40px 0px; COLOR: #666666; FONT-SIZE: 14px
+}
+.chest_det_two .list .list_right {
+	POSITION: absolute; TOP: 100px; RIGHT: 20px
+}
+.chest_det_two .list3 {
+	HEIGHT: 200px
+}
+.chest_det_two .list5 {
+	MARGIN-BOTTOM: 0px; HEIGHT: 230px
+}
+.chest .height_519 {
+	MARGIN-TOP: 0px
+}
+.chest .ty {
+	MARGIN-TOP: 40px; WIDTH: 890px
+}
+.chest .ty P {
+	WIDTH: 160px; FLOAT: left
+}
+.kf {
+	WIDTH: 945px; MARGIN-BOTTOM: 30px; HEIGHT: 189px
+}
+.kf LI {
+	POSITION: relative; WIDTH: 170px; FLOAT: left; HEIGHT: 189px; MARGIN-RIGHT: 65px
+}
+.kf .kf_img {
+	WIDTH: 170px; HEIGHT: 170px
+}
+.kf_img1 {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) 0px 0px
+}
+.kf_img2 {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) -170px 0px
+}
+.kf_img3 {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) -340px 0px
+}
+.kf_img4 {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) -510px 0px
+}
+.kf LI .kf_desc {
+	POSITION: relative; FILTER: alpha(opacity=70); MARGIN-TOP: -45px; WIDTH: 170px; BACKGROUND: #ffffff; HEIGHT: 89px; opacity: 0.7; -moz-opacity: 0.7; -khtml-opacity: 0.7
+}
+.kf LI .kf_p1 {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 28px; WIDTH: 180px; BOTTOM: 31px; HEIGHT: 28px; COLOR: #4d4d4d
+}
+.kf LI .kf_p2 {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 36px; WIDTH: 129px; BOTTOM: 0px; BACKGROUND: url(http://img.oppein.cn/images/kf_desc_bg.png); HEIGHT: 36px; COLOR: #ffffff; MARGIN-LEFT: -64px; CURSOR: pointer; LEFT: 50%
+}
+.kf_p2 .kf_i1 {
+	WIDTH: 18px; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -22px 0px; FLOAT: left; HEIGHT: 36px
+}
+.kf_p2 .kf_i2 {
+	WIDTH: 18px; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -41px 0px; FLOAT: right; HEIGHT: 36px
+}
+.height_98 {
+	POSITION: relative; PADDING-BOTTOM: 26px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: #f7f7f7; HEIGHT: 58px; PADDING-TOP: 26px
+}
+.height_98 P {
+	LINE-HEIGHT: 28px; WIDTH: 750px; FLOAT: left; COLOR: #4d4948; FONT-SIZE: 14px
+}
+.height_98 P FONT {
+	COLOR: #ff6c00; FONT-WEIGHT: bold
+}
+.height_98 .desc_img8 {
+	POSITION: absolute; TOP: -12px; RIGHT: 0px
+}
+.height_519 {
+	MARGIN-TOP: 30px; WIDTH: 908px; HEIGHT: 519px
+}
+.height_519 H4 {
+	LINE-HEIGHT: 52px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; MARGIN-BOTTOM: 10px; HEIGHT: 62px; COLOR: #716c6a; FONT-SIZE: 25px
+}
+.height_519 H4 I {
+	WIDTH: 41px; DISPLAY: block; FLOAT: left; HEIGHT: 66px; MARGIN-RIGHT: 20px
+}
+.height_519 H4.h4_1 I {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) 0px -168px
+}
+.height_519 H4.h4_2 I {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) 0px -233px
+}
+.height_519 H4.h4_3 I {
+	BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) 0px -299px
+}
+.height_519 H4 FONT {
+	COLOR: #ff6c00; FONT-SIZE: 50px
+}
+.height_519_1 {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; WIDTH: 888px; PADDING-RIGHT: 0px; BACKGROUND: #f5f5f5; OVERFLOW: hidden; PADDING-TOP: 30px
+}
+.height_519_2 {
+	PADDING-BOTTOM: 30px; MARGIN-TOP: 20px; PADDING-LEFT: 0px; WIDTH: 888px; PADDING-RIGHT: 0px; BACKGROUND: #f5f5f5; HEIGHT: auto; OVERFLOW: hidden; PADDING-TOP: 30px
+}
+.height_519 .height_519_2_left {
+	PADDING-LEFT: 25px; WIDTH: 300px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; COLOR: #666666; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.height_519_2_right {
+	LINE-HEIGHT: 25px; WIDTH: 300px; DISPLAY: inline; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; FLOAT: right; COLOR: #000; FONT-SIZE: 14px; FONT-WEIGHT: bold; MARGIN-RIGHT: 80px
+}
+.right_title {
+	WIDTH: 46px; FLOAT: left; HEIGHT: 135px; FONT-SIZE: 16px; BORDER-RIGHT: #e6e6e6 1px solid
+}
+.right_content {
+	BORDER-LEFT: #fff 1px solid; PADDING-LEFT: 10px; FLOAT: left; HEIGHT: 135px
+}
+.height_519_3 {
+	MARGIN-TOP: 20px; WIDTH: 888px; BACKGROUND: #f5f5f5; HEIGHT: auto; OVERFLOW: hidden; PADDING-TOP: 30px
+}
+.height_519_3_left {
+	WIDTH: 300px; FLOAT: left
+}
+.height_519_3_right {
+	LINE-HEIGHT: 25px; WIDTH: 350px; DISPLAY: inline; MARGIN-BOTTOM: 20px; FLOAT: right; COLOR: #4d4d4d; FONT-SIZE: 14px; MARGIN-RIGHT: 20px
+}
+.height_519_3_right_img {
+	MARGIN: 20px auto; WIDTH: 858px; DISPLAY: block; FLOAT: none
+}
+.height_519 .desc_img9 {
+	POSITION: relative; WIDTH: 290px; FLOAT: left; HEIGHT: 446px; MARGIN-RIGHT: 10px
+}
+.height_519 .desc_img10 {
+	POSITION: relative; WIDTH: 290px; MARGIN-BOTTOM: 10px; FLOAT: left; HEIGHT: 218px; MARGIN-RIGHT: 10px
+}
+.height_519 .desc_img11 {
+	POSITION: relative; WIDTH: 286px; MARGIN-BOTTOM: 10px; FLOAT: left; HEIGHT: 218px
+}
+.height_519 .desc_img12 {
+	POSITION: relative; WIDTH: 290px; FLOAT: left; HEIGHT: 218px; MARGIN-RIGHT: 10px
+}
+.height_519 .desc_img13 {
+	POSITION: relative; WIDTH: 286px; FLOAT: left; HEIGHT: 218px
+}
+.height_519 .desc_img_title {
+	POSITION: absolute; FILTER: alpha(opacity=80); PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; BOTTOM: 0px; PADDING-RIGHT: 10px; BACKGROUND: #ffffff; PADDING-TOP: 10px; LEFT: 0px; opacity: 0.8; -moz-opacity: 0.8; -khtml-opacity: 0.8
+}
+.height_248 {
+	PADDING-BOTTOM: 20px; MARGIN-TOP: 30px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #f5f5f5; HEIGHT: 248px; PADDING-TOP: 20px
+}
+.height_248 IMG {
+	MARGIN-LEFT: 27px
+}
+.height_519 DL {
+	WIDTH: 215px; MARGIN-BOTTOM: 20px; FLOAT: left; MARGIN-RIGHT: 10px
+}
+.height_519 DL DT {
+	WIDTH: 215px; HEIGHT: 153px
+}
+.height_519 DL DD {
+	LINE-HEIGHT: 30px; HEIGHT: 30px; COLOR: #4d4d4d
+}
+.desc_img19 {
+	DISPLAY: block
+}
+.height_519 H5 {
+	LINE-HEIGHT: 50px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; COLOR: #ff6c00; FONT-SIZE: 40px; OVERFLOW: hidden; FONT-WEIGHT: inherit
+}
+.height_519 H5 I {
+	MARGIN-TOP: 4px; WIDTH: 15px; DISPLAY: block; BACKGROUND: #ff6c00; FLOAT: left; HEIGHT: 46px; MARGIN-RIGHT: 10px
+}
+.height_519 H5.h5_2 {
+	WIDTH: 400px
+}
+.height_519 H5.h5_3 {
+	WIDTH: 500px
+}
+.height_519 H5 DIV {
+	BORDER-BOTTOM: #fff 1px solid; FLOAT: left
+}
+.height_519 H5 EM {
+	BORDER-BOTTOM: #e6e6e6 1px solid; PADDING-BOTTOM: 8px; FONT-STYLE: normal; PADDING-RIGHT: 50px; DISPLAY: block
+}
+.height_519 P {
+	LINE-HEIGHT: 22px; MARGIN: 10px auto; WIDTH: 850px; COLOR: #4d4d4d; CLEAR: both
+}
+.height_519 .img1 {
+	DISPLAY: block; MARGIN-BOTTOM: 10px; FLOAT: left; MARGIN-RIGHT: 10px
+}
+.flow_list {
+	POSITION: relative; PADDING-BOTTOM: 22px; PADDING-LEFT: 18px; PADDING-RIGHT: 18px; MARGIN-BOTTOM: 30px; BACKGROUND: #f5f5f5; OVERFLOW: hidden; PADDING-TOP: 22px
+}
+.flow_list .flow_span {
+	MARGIN-TOP: 29px; WIDTH: 41px; BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) -220px -309px; FLOAT: left; HEIGHT: 53px; MARGIN-RIGHT: 5px
+}
+.flow_list DL {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+.flow_list DL DT .flow_img1 {
+	WIDTH: 123px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) -83px -170px; HEIGHT: 103px
+}
+.flow_list DL DT .flow_img2 {
+	WIDTH: 130px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) -220px -170px; HEIGHT: 103px
+}
+.flow_list DL DT .flow_img3 {
+	WIDTH: 130px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) -370px -170px; HEIGHT: 103px
+}
+.flow_list DL DT .flow_img4 {
+	WIDTH: 134px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) -511px -170px; HEIGHT: 103px
+}
+.flow_list DL DT .flow_img5 {
+	WIDTH: 125px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/kefu_icon.png) -83px -285px; HEIGHT: 102px
+}
+.flow_list DL DD {
+	TEXT-ALIGN: center; LINE-HEIGHT: 25px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; COLOR: #585453; FONT-SIZE: 18px; FONT-WEIGHT: bold; PADDING-TOP: 10px
+}
+.flow_list I {
+	POSITION: absolute; WIDTH: 10px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/all_icon.png) no-repeat; HEIGHT: 207px; TOP: 0px
+}
+.flow_list I.left_bg {
+	BACKGROUND-POSITION: -130px -39px; LEFT: 0px
+}
+.flow_list I.right_bg {
+	BACKGROUND-POSITION: -142px -39px; RIGHT: 0px
+}
+.reco {
+	MARGIN-TOP: 30px; BORDER-TOP: #e5e5e5 1px solid; PADDING-TOP: 2px
+}
+.reco B {
+	FONT-STYLE: normal
+}
+.reco EM {
+	FONT-STYLE: normal
+}
+.reco .reco_list {
+	BORDER-BOTTOM: #e5e5e5 1px solid; POSITION: relative; BORDER-LEFT: #e5e5e5 1px solid; OVERFLOW: hidden; BORDER-TOP: #e5e5e5 1px solid; BORDER-RIGHT: #e5e5e5 1px solid
+}
+.reco .reco_list .mask A {
+	MARGIN-TOP: -30px
+}
+.reco_list .reco_list_title {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 40px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; HEIGHT: 40px; COLOR: #4d4d4d; PADDING-TOP: 0px
+}
+.reco_list .reco_list_title H3 {
+	FLOAT: left; FONT-WEIGHT: bold
+}
+.reco_list .reco_list_title .pages {
+	FLOAT: right
+}
+.reco_list .reco_list_con {
+	MARGIN: 0px auto; WIDTH: 1186px
+}
+.reco_list .reco_list_con .reco_list_content {
+	POSITION: relative; WIDTH: 100%; HEIGHT: 228px; OVERFLOW: hidden
+}
+.reco_list .reco_list_con .reco_list_content UL {
+	POSITION: absolute; WIDTH: 10000px; LEFT: 0px
+}
+.reco_list .reco_list_con .reco_list_content UL LI {
+	WIDTH: 230px; FLOAT: left; MARGIN-RIGHT: 8px
+}
+.reco_list .reco_list_con .reco_list_content UL LI IMG {
+	WIDTH: 230px; DISPLAY: block; HEIGHT: 173px
+}
+.reco_list .reco_list_con .reco_list_content UL LI P {
+	TEXT-ALIGN: center; MARGIN-TOP: 8px; HEIGHT: 40px; COLOR: #716c6a; OVERFLOW: hidden
+}
+.reco_list .reco_list_con .reco_list_content UL LI SPAN.font_left {
+	COLOR: #ff6c00; FONT-WEIGHT: bold
+}
+.reco_list .reco_list_con .reco_list_content UL LI FONT.font_right {
+	FLOAT: right; COLOR: #b3b3b3
+}
+.details_top_right EM {
+	FONT-STYLE: normal
+}
+.details_top_right I {
+	FONT-STYLE: normal
+}
+.details_top_right .mx_attr {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #f5f5f5; PADDING-TOP: 20px
+}
+.mx_attr {
+	COLOR: #4d4d4d
+}
+.mx_attr .sale {
+	MARGIN-BOTTOM: 15px
+}
+.mx_attr .sale {
+	PADDING-LEFT: 25px
+}
+.mx_attr .classify {
+	PADDING-LEFT: 25px
+}
+.mx_attr .tit {
+	TEXT-ALIGN: right; WIDTH: 66px; DISPLAY: inline-block; COLOR: #999
+}
+.mx_attr .classify .tit {
+	VERTICAL-ALIGN: top; PADDING-TOP: 5px
+}
+.mx_attr .classify .ify_list {
+	WIDTH: 320px; ZOOM: 1; DISPLAY: inline-block
+}
+.mx_attr .classify .ify_list LI {
+	BORDER-BOTTOM: #d6d6d6 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: #d6d6d6 1px solid; LINE-HEIGHT: 30px; MARGIN: 0px 10px 10px 0px; WIDTH: 145px; BACKGROUND: #fff; FLOAT: left; HEIGHT: 30px; BORDER-TOP: #d6d6d6 1px solid; CURSOR: pointer; BORDER-RIGHT: #d6d6d6 1px solid
+}
+.mx_attr .classify .ify_list LI I {
+	POSITION: absolute; WIDTH: 12px; BOTTOM: -1px; DISPLAY: none; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) no-repeat -152px 0px; HEIGHT: 12px; RIGHT: -1px
+}
+.mx_attr .classify .ify_list .current {
+	BORDER-BOTTOM: #ff6000 2px solid; BORDER-LEFT: #ff6000 2px solid; LINE-HEIGHT: 28px; WIDTH: 143px; HEIGHT: 28px; BORDER-TOP: #ff6000 2px solid; BORDER-RIGHT: #ff6000 2px solid
+}
+.mx_attr .classify .ify_list .current I {
+	DISPLAY: block
+}
+.details_top_right .num_attr {
+	PADDING-BOTTOM: 18px; PADDING-LEFT: 25px; PADDING-RIGHT: 0px; BACKGROUND: #f5f5f5; PADDING-TOP: 20px
+}
+.num_attr SPAN {
+	COLOR: #999; MARGIN-RIGHT: 10px
+}
+.num_attr .store {
+	COLOR: #999
+}
+.num_attr .num_bg {
+	BORDER-BOTTOM: #ccc 1px solid; POSITION: relative; BORDER-LEFT: #ccc 1px solid; WIDTH: 65px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 18px; VERTICAL-ALIGN: middle; BORDER-TOP: #ccc 1px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #ccc 1px solid
+}
+.num_attr .num_bg INPUT {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 15px; WIDTH: 32px; HEIGHT: 15px; FONT-SIZE: 12px; TOP: 1px; LEFT: 16px
+}
+.num_attr .num_bg I {
+	TEXT-ALIGN: center; WIDTH: 15px; DISPLAY: block; BACKGROUND: #ededed; HEIGHT: 18px; CURSOR: pointer
+}
+.num_attr .num_bg I.minus {
+	FLOAT: left
+}
+.num_attr .num_bg I.add {
+	FLOAT: right
+}
+.num_attr .num_attr_list LI {
+	MARGIN-BOTTOM: 12px
+}
+.num_attr .over_error {
+	BORDER-BOTTOM: #ff6100 1px solid; BORDER-LEFT: #ff6100 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 25px; MARGIN: 5px 0px 0px 30px; PADDING-LEFT: 5px; WIDTH: 195px; PADDING-RIGHT: 5px; BACKGROUND: #fff7f2; HEIGHT: 25px; COLOR: #ff6000; BORDER-TOP: #ff6100 1px solid; BORDER-RIGHT: #ff6100 1px solid; PADDING-TOP: 0px
+}
+.details_top_right .gj_num {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 25px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 15px; PADDING-TOP: 0px
+}
+.gj_num SPAN {
+	MARGIN-RIGHT: 0px
+}
+.details_car_submit {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 45px
+}
+.details_car_submit A.btn_current {
+	BACKGROUND: #bfbfbf; border-radius: 5px
+}
+.details_car_submit A.btn_current I.radius_l {
+	DISPLAY: none
+}
+.details_car_submit A.btn_current I.radius_r {
+	DISPLAY: none
+}
+.details_car_submit A {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 46px; WIDTH: 165px; DISPLAY: inline-block; BACKGROUND: url(http://img.oppein.cn/images/btn_bg.png) repeat-x -196px 0px; HEIGHT: 46px; FONT-WEIGHT: bold
+}
+.details_car_submit A INPUT[type=submit] {
+	Z-INDEX: 99; POSITION: absolute; WIDTH: 165px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 46px; COLOR: #fff; FONT-SIZE: 14px; TOP: 0px; FONT-WEIGHT: bold; LEFT: 0px
+}
+.details_car_submit .add_car {
+	WIDTH: 175px; BACKGROUND: url(http://img.oppein.cn/images/car_repeat.png) repeat-x; MARGIN-LEFT: 25px
+}
+.details_car_submit .add_car INPUT[type=submit] {
+	TEXT-INDENT: 2em; WIDTH: 175px
+}
+.details_car_submit A:hover {
+	TEXT-DECORATION: none
+}
+.details_car_submit A I {
+	POSITION: absolute; WIDTH: 5px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) no-repeat; HEIGHT: 48px; TOP: 0px
+}
+.details_car_submit .buy_now I.radius_l {
+	BACKGROUND-POSITION: -22px -42px; LEFT: 0px
+}
+.details_car_submit .buy_now I.radius_r {
+	BACKGROUND-POSITION: -28px -42px; RIGHT: 0px
+}
+.details_car_submit .add_car I.radius_l {
+	BACKGROUND-POSITION: -210px 0px; LEFT: -5px
+}
+.details_car_submit .add_car I.radius_r {
+	BACKGROUND-POSITION: -215px 0px; RIGHT: -5px
+}
+.details_car_submit .add_car .car_icon {
+	POSITION: absolute; WIDTH: 32px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) no-repeat 0px -102px; HEIGHT: 35px; TOP: 6px; LEFT: 20px
+}
+.details_car_submit .btn_current .car_icon {
+	BACKGROUND-POSITION: -38px -103px
+}
+.kitchen_prd_content .kitchen_tit {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 15px
+}
+.kitchen_tit B {
+	POSITION: absolute; PADDING-RIGHT: 15px; DISPLAY: block; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; BACKGROUND: #fff; COLOR: #4d4948; FONT-SIZE: 18px; TOP: -12px; FONT-WEIGHT: bold; LEFT: -40px
+}
+.kitchen_tit B EM {
+	COLOR: #ff6c00
+}
+.kitchen_tit .tit_line {
+	POSITION: relative; WIDTH: 850px; BOTTOM: 10px; DISPLAY: inline-block; BORDER-TOP: #e3e2e1 1px solid
+}
+.kitchen_tit .tit_line I {
+	POSITION: absolute; WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) no-repeat -40px -42px; HEIGHT: 20px; TOP: -10px; RIGHT: -2px
+}
+.kitchen_tit .tit_line SPAN {
+	POSITION: absolute; WIDTH: 14px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) no-repeat -40px -69px; HEIGHT: 14px; TOP: -6px; LEFT: -64px
+}
+.kitchen_prd_content .prd_inftro_list LI {
+	TEXT-ALIGN: center
+}
+.kitchen_prd_content .prd_inftro_list LI IMG {
+	MARGIN-BOTTOM: 28px
+}
+.apply_box_dialog {
+	Z-INDEX: 9999; POSITION: fixed; MARGIN: -235px 0px 0px -270px; WIDTH: 540px; DISPLAY: none; HEIGHT: 340px; TOP: 50%; LEFT: 50%
+}
+.apply_box_dialog .dialog_tit {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 110px; PADDING-LEFT: 20px; FONT-FAMILY: "ºÚÌå"; BACKGROUND: #ff6c00; HEIGHT: 110px; COLOR: #fff; FONT-SIZE: 30px
+}
+.apply_box_dialog .dialog_tit I {
+	POSITION: absolute; WIDTH: 48px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/plan_icon.png) no-repeat; HEIGHT: 42px; TOP: 30px; LEFT: 165px
+}
+.apply_box_dialog .dialog_con {
+	PADDING-BOTTOM: 25px; PADDING-LEFT: 32px; PADDING-RIGHT: 32px; BACKGROUND: #fff; COLOR: #ff6c00; FONT-SIZE: 14px; OVERFLOW: hidden; PADDING-TOP: 25px
+}
+.apply_box_dialog .dialog_con EM {
+	FONT-STYLE: normal
+}
+.apply_box_dialog .dialog_con .us_mes {
+	TEXT-ALIGN: center
+}
+.apply_box_dialog .dialog_con .dialog_m {
+	TEXT-ALIGN: center; MARGIN: 25px 0px
+}
+.apply_box_dialog .dialog_con .refer {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 25px; COLOR: #ff6c00; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.apply_box_dialog .dialog_con .applay_submit {
+	MARGIN-LEFT: 85px
+}
+.apply_box_dialog .dialog_con .applay_submit A {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 33px; WIDTH: 130px; FLOAT: left; HEIGHT: 33px; COLOR: #fff; MARGIN-RIGHT: 50px
+}
+.apply_box_dialog .dialog_con .applay_submit A:hover {
+	TEXT-DECORATION: none
+}
+.apply_box_dialog .dialog_con .applay_submit A.go_index {
+	BACKGROUND: #716c6a
+}
+.apply_box_dialog .dialog_con .applay_submit A.online {
+	BACKGROUND: #ff6c00
+}
+.apply_box_dialog .dialog_con .applay_submit A I {
+	POSITION: absolute; WIDTH: 5px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/plan_icon.png) no-repeat; HEIGHT: 36px; TOP: -3px
+}
+.apply_box_dialog .dialog_con .applay_submit .go_index .radius_l {
+	BACKGROUND-POSITION: -117px -5px; LEFT: -4px
+}
+.apply_box_dialog .dialog_con .applay_submit .go_index .radius_r {
+	BACKGROUND-POSITION: -127px -5px; RIGHT: -4px
+}
+.apply_box_dialog .dialog_con .applay_submit .online .radius_l {
+	BACKGROUND-POSITION: -97px -5px; LEFT: -4px
+}
+.apply_box_dialog .dialog_con .applay_submit .online .radius_r {
+	BACKGROUND-POSITION: -107px -5px; RIGHT: -4px
+}
+.apply_box_dialog .close {
+	POSITION: absolute; WIDTH: 38px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/plan_icon.png) no-repeat -54px 0px; HEIGHT: 39px; TOP: -12px; RIGHT: -10px
+}
+.goods_desc_content .tit_icon {
+	MARGIN-BOTTOM: 0px
+}
+.goods_desc_content .door_choose .tit_icon SPAN {
+	WIDTH: 90px
+}
+.door_choose .choose_list .reason {
+	POSITION: relative; MARGIN-TOP: 35px; WIDTH: 886px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 125px; BORDER-TOP: #dcdcdc 1px dashed; PADDING-TOP: 20px
+}
+.door_choose .choose_list LI .one {
+	MARGIN-TOP: 0px; BORDER-TOP: medium none
+}
+.door_choose .choose_list LI .reason .reason_info {
+	Z-INDEX: 2; BACKGROUND: url(http://img.oppein.cn/images/door_tit02.png) no-repeat center top; HEIGHT: 80px
+}
+.door_choose .choose_list LI .reason .reason_info EM {
+	LINE-HEIGHT: 64px; MARGIN-LEFT: 385px; FONT-SIZE: 30px
+}
+.door_choose .choose_list .line {
+	Z-INDEX: 1; POSITION: relative; WIDTH: 100%; HEIGHT: 1px; BORDER-TOP: #ff6c00 1px solid; TOP: 55px
+}
+.door_choose .choose_list LI .server_list LI {
+	MARGIN-LEFT: 29px
+}
+.door_choose .choose_list LI .server_list LI.first {
+	MARGIN-LEFT: 0px
+}
+.door_choose .choose_list LI .ser_tit {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 61px; MARGIN: 5px auto 35px; PADDING-LEFT: 0px; WIDTH: 512px; PADDING-RIGHT: 0px; BACKGROUND: #d91314; HEIGHT: 61px; COLOR: #fff; FONT-SIZE: 32px; PADDING-TOP: 0px
+}
+.door_choose .choose_list LI .server_list LI {
+	TEXT-ALIGN: center; WIDTH: 200px; FONT-FAMILY: "ºÚÌå"; BACKGROUND: #f4f4f4; FLOAT: left; HEIGHT: 174px; OVERFLOW: hidden
+}
+.door_choose .choose_list LI .server_list IMG {
+	MARGIN: 0px auto 7px; DISPLAY: block
+}
+.door_choose .choose_list LI .server_list SPAN {
+	MARGIN: 13px 0px 7px; DISPLAY: block; COLOR: #d91314; FONT-SIZE: 21px
+}
+.door_choose .choose_list LI .server_list P {
+	COLOR: #454545; FONT-SIZE: 16px
+}
+.door_choose .choose_list LI .answer_list {
+	PADDING-BOTTOM: 25px; PADDING-LEFT: 18px; PADDING-RIGHT: 18px; BACKGROUND: #f4f4f4; PADDING-TOP: 10px
+}
+.door_choose .choose_list LI .answer_list LI {
+	BORDER-BOTTOM: #d2d2d2 1px dashed; POSITION: relative; PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 90px; PADDING-TOP: 15px
+}
+.door_choose .choose_list LI .answer_list LI DIV {
+	BORDER-BOTTOM: #7d7d7d 1px solid; POSITION: absolute; BORDER-LEFT: #7d7d7d 1px solid; WIDTH: 88px; HEIGHT: 90px; BORDER-TOP: #7d7d7d 1px solid; TOP: 10px; BORDER-RIGHT: #7d7d7d 1px solid; LEFT: 0px
+}
+.door_choose .choose_list LI .answer_list LI DL {
+	PADDING-LEFT: 107px
+}
+.door_choose .choose_list LI .answer_list LI DT B {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #666; FONT-SIZE: 25px; PADDING-TOP: 0px
+}
+.door_choose .choose_list LI .answer_list LI DD {
+	FONT-SIZE: 14px
+}
+.goods_desc_content .wall_paper .tit_icon {
+	MARGIN: 10px 0px 15px
+}
+.goods_desc_content .wall_paper .tit_icon SPAN {
+	WIDTH: 90px; DISPLAY: block; FONT-FAMILY: "ºÚÌå"; BACKGROUND: #fff; HEIGHT: 44px; COLOR: #4d4948; FONT-SIZE: 20px
+}
+.goods_desc_content .wall_paper .height_1 {
+	WIDTH: 888px; HEIGHT: 1977px; OVERFLOW: hidden
+}
+.goods_desc_content .wall_paper .height_2 {
+	WIDTH: 888px; HEIGHT: 3810px; OVERFLOW: hidden
+}
+.wall_paper .tit_icon SPAN EM {
+	COLOR: #ff6c00
+}

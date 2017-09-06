@@ -1,0 +1,750 @@
+BODY {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H4 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H5 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H6 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+OL {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+TABLE {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+TR {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+TD {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	FONT: 12px/20px "ËÎÌå", Arial; BACKGROUND: #fff; COLOR: #3d3d3d
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+IMG {
+	DISPLAY: inline-block; VERTICAL-ALIGN: middle
+}
+H1 {
+	FONT-SIZE: 100%
+}
+H2 {
+	FONT-SIZE: 100%
+}
+H3 {
+	FONT-SIZE: 100%
+}
+H4 {
+	FONT-SIZE: 100%
+}
+H5 {
+	FONT-SIZE: 100%
+}
+H6 {
+	FONT-SIZE: 100%
+}
+SELECT {
+	CURSOR: pointer
+}
+BUTTON {
+	CURSOR: pointer
+}
+INPUT[type=submit] {
+	CURSOR: pointer
+}
+TABLE {
+	BORDER-COLLAPSE: collapse
+}
+A {
+	COLOR: #3d3d3d; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff9000; TEXT-DECORATION: underline
+}
+:focus {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px
+}
+.clearfix:after {
+	WIDTH: 0px; DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: '.'
+}
+.clearfix {
+	
+}
+.ie_ik {
+	ZOOM: 1; DISPLAY: inline-block
+}
+.wrap {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 1210px
+}
+.main {
+	MARGIN: 10px auto 0px; WIDTH: 1210px
+}
+.fl {
+	FLOAT: left
+}
+.fr {
+	FLOAT: right
+}
+#bg_black {
+	Z-INDEX: 1001; POSITION: fixed; FILTER: alpha(opacity=60); BOTTOM: 0px; DISPLAY: none; BACKGROUND: #000; TOP: 0px; RIGHT: 0px; LEFT: 0px; opacity: 0.6
+}
+.none {
+	DISPLAY: none
+}
+.tc_activity {
+	MIN-WIDTH: 1210px; WIDTH: 100%; DISPLAY: block; HEIGHT: 60px
+}
+.header {
+	Z-INDEX: 888; PADDING-BOTTOM: 0px; LINE-HEIGHT: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #4c4c4c; PADDING-TOP: 10px
+}
+.header EM {
+	FONT-STYLE: normal
+}
+.header I {
+	FONT-STYLE: normal
+}
+.header .top {
+	POSITION: relative; MARGIN: 0px auto
+}
+.top .header_top {
+	Z-INDEX: 9; BORDER-BOTTOM: #e5e5e5 1px solid; POSITION: relative; MIN-WIDTH: 1210px; PADDING-BOTTOM: 8px
+}
+.top .header_top .tool_link {
+	POSITION: absolute; TOP: 0px; RIGHT: 0px
+}
+.top .header_top .tool_link A {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; BORDER-RIGHT: #d6d6d6 1px solid; PADDING-TOP: 0px
+}
+.top .header_top .tool_link A I {
+	POSITION: absolute; BORDER-LEFT: transparent 3px solid; WIDTH: 0px; DISPLAY: block; HEIGHT: 0px; BORDER-TOP: #000 4px solid; TOP: 3px; RIGHT: 2px; BORDER-RIGHT: transparent 3px solid
+}
+.top .header_top .tool_link .mess_num {
+	COLOR: #ff0000
+}
+.top .header_top .tool_link LI {
+	POSITION: relative; FLOAT: left
+}
+.top .header_top .tool_link LI SPAN {
+	COLOR: #000; MARGIN-LEFT: 10px
+}
+.top .header_top .tool_link LI EM {
+	COLOR: #ff0000
+}
+.top .header_top .tool_link LI.tel EM {
+	COLOR: #ff5a00; FONT-WEIGHT: bold
+}
+.top .header_top .tool_link LI .op_service {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; LINE-HEIGHT: 22px; MARGIN: -6px -6px 0px 10px; PADDING-LEFT: 28px; WIDTH: 62px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/header_top_icon.png) no-repeat 0px -31px; FLOAT: left; HEIGHT: 22px; COLOR: #fff; FONT-SIZE: 12px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; TEXT-DECORATION: none
+}
+.top .header_top .tool_link LI .op_service:hover {
+	BACKGROUND-POSITION: 0px -2px
+}
+.top .header_ft {
+	POSITION: relative; HEIGHT: 120px
+}
+.top .header_ft .index_logo {
+	MARGIN: 43px 68px 0px 0px; FLOAT: left
+}
+.top .header_ft .activity_logo {
+	MARGIN: 0px 40px 0px 0px; FLOAT: left
+}
+.top .header_ft .search {
+	POSITION: relative; MARGIN-TOP: 40px; WIDTH: 390px; BACKGROUND: #716c6a; FLOAT: left; HEIGHT: 40px; VERTICAL-ALIGN: middle
+}
+.top .header_ft .search_inp {
+	LINE-HEIGHT: 34px; MARGIN: 3px 0px 3px 3px; PADDING-LEFT: 10px; WIDTH: 320px; HEIGHT: 34px; COLOR: #a6a6a6
+}
+.top .header_ft .search_btn {
+	POSITION: absolute; WIDTH: 35px; BACKGROUND: url(http://img.oppein.cn/images/common_icon.png) no-repeat -70px 0px; HEIGHT: 30px; TOP: 5px; RIGHT: 11px
+}
+.top .header_ft .mycart {
+	POSITION: absolute; TOP: 38px; RIGHT: 0px
+}
+.top .header_ft .mycart A {
+	COLOR: #000; MARGIN-LEFT: 22px
+}
+.top .header_ft .mycart A:hover {
+	COLOR: #ff9000; TEXT-DECORATION: none
+}
+.top .header_ft .mycart SPAN {
+	
+}
+.top .header_ft .mycart I {
+	WIDTH: 30px; DISPLAY: inline-block; BACKGROUND: url(http://img.oppein.cn/images/common_icon.png) no-repeat; HEIGHT: 30px; VERTICAL-ALIGN: middle
+}
+.top .header_ft .mycart .user I {
+	BACKGROUND-POSITION: 0px 0px
+}
+.top .header_ft .mycart .cart I {
+	BACKGROUND-POSITION: -40px 0px
+}
+.top .header_ft .mycart .cart EM {
+	COLOR: #ff0000; FONT-WEIGHT: bold
+}
+.top .header_ft .mycart .order {
+	WIDTH: 170px; DISPLAY: inline-block; BACKGROUND: url(http://img.oppein.cn/images/common_icon.png) no-repeat 0px -36px; HEIGHT: 50px; VERTICAL-ALIGN: middle
+}
+.header .header_nav {
+	BORDER-BOTTOM: #484544 2px solid; MIN-WIDTH: 1210px; LINE-HEIGHT: 35px; HEIGHT: 35px
+}
+.header_nav .nav_list {
+	MARGIN: 0px auto; WIDTH: 1210px
+}
+.nav_list .cate_sort {
+	Z-INDEX: 1000; POSITION: relative; LINE-HEIGHT: 35px; WIDTH: 230px; BACKGROUND: #231815; FLOAT: left
+}
+.nav_list .cate_sort H3 {
+	TEXT-ALIGN: center; HEIGHT: 36px
+}
+.nav_list .cate_sort H3 A {
+	DISPLAY: block; COLOR: #fff; FONT-SIZE: 14px
+}
+.nav_list .cate_sort H3 A:hover {
+	TEXT-DECORATION: none
+}
+.cate_menu {
+	POSITION: relative; FONT-FAMILY: "Î¢ÈíÑÅºÚ"
+}
+.cate_menu .menu_left {
+	POSITION: absolute; FILTER: alpha(opacity=95); LINE-HEIGHT: 20px; WIDTH: 230px; DISPLAY: none; BACKGROUND: #231815; HEIGHT: 450px; FONT-SIZE: 14px; opacity: 0.95
+}
+.cate_menu .menu_left LI {
+	BORDER-BOTTOM: #524041 1px solid; POSITION: relative; HEIGHT: 89px
+}
+.cate_menu .menu_left LI:first-child {
+	HEIGHT: 90px
+}
+.cate_menu .menu_left LI:hover {
+	BORDER-BOTTOM: #ff8832 1px solid; BACKGROUND: #ff6c00
+}
+.cate_menu .menu_left LI:hover I {
+	DISPLAY: block
+}
+.cate_menu .menu_left LI:hover .menu_tit {
+	COLOR: #fff
+}
+.cate_menu .menu_left LI:hover .tit_list {
+	BORDER-LEFT: #ff8832 1px solid
+}
+.cate_menu .menu_left LI.dl_current {
+	BORDER-BOTTOM: #ff8832 1px solid; BACKGROUND: #ff6c00
+}
+.cate_menu .menu_left LI.dl_current I {
+	DISPLAY: block
+}
+.cate_menu .menu_left LI.dl_current .menu_tit {
+	COLOR: #fff
+}
+.cate_menu .menu_left LI.dl_current .tit_list {
+	BORDER-LEFT: #ff8832 1px solid
+}
+.menu_left .menu_tit {
+	TEXT-ALIGN: center; WIDTH: 55px; ZOOM: 1; DISPLAY: inline-block; COLOR: #b2b2b2; MARGIN-LEFT: 5px
+}
+.menu_left .menu_tit I {
+	MARGIN: 0px auto; WIDTH: 30px; DISPLAY: block; BACKGROUND: url(../images/menu_icon.png) no-repeat; HEIGHT: 30px
+}
+.menu_left .menu_tit I.kit {
+	BACKGROUND-POSITION: 4px 4px
+}
+.menu_left .menu_tit I.room {
+	BACKGROUND-POSITION: 2px -26px
+}
+.menu_left .menu_tit I.din {
+	BACKGROUND-POSITION: 3px -55px
+}
+.menu_left .menu_tit I.child {
+	BACKGROUND-POSITION: 4px -85px
+}
+.menu_left .menu_tit I.book {
+	WIDTH: 32px; BACKGROUND-POSITION: 3px -118px
+}
+.menu_left .tit_list {
+	BORDER-LEFT: #524041 1px solid; LINE-HEIGHT: 20px; MARGIN-TOP: 20px; PADDING-LEFT: 10px; WIDTH: 150px; ZOOM: 1; DISPLAY: inline-block; OVERFLOW: hidden
+}
+.menu_left .tit_list A {
+	TEXT-ALIGN: left; ZOOM: 1; DISPLAY: inline-block; COLOR: #fff; MARGIN-RIGHT: 8px
+}
+.menu_left .jt {
+	BORDER-BOTTOM: transparent 8px solid; POSITION: absolute; FILTER: alpha(opacity=95); WIDTH: 0px; DISPLAY: none; HEIGHT: 0px; BORDER-TOP: transparent 8px solid; TOP: 35px; RIGHT: 0px; BORDER-RIGHT: #fff 8px solid; opacity: 0.95
+}
+.menu_right .menu_bg {
+	POSITION: absolute; FILTER: alphpa(opacity=95); WIDTH: 460px; BACKGROUND: #fff; HEIGHT: 450px; TOP: 1px; LEFT: 230px; opacity: 0.95
+}
+.menu_right .menu_con {
+	POSITION: absolute; PADDING-BOTTOM: 20px; LINE-HEIGHT: 25px; PADDING-LEFT: 30px; WIDTH: 400px; PADDING-RIGHT: 30px; HEIGHT: 410px; TOP: 1px; PADDING-TOP: 20px; LEFT: 230px
+}
+.menu_con EM {
+	COLOR: #000; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.menu_con .menu_part LI {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #d1d0cf 1px solid; PADDING-TOP: 15px
+}
+.menu_con .menu_part LI:first-child {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-TOP: 0px
+}
+.menu_con .link A {
+	MARGIN-RIGHT: 15px
+}
+.header_nav .main_nav {
+	FLOAT: left; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.header_nav .main_nav LI {
+	TEXT-ALIGN: center; WIDTH: 120px; FLOAT: left
+}
+.header_nav .main_nav LI A {
+	DISPLAY: block
+}
+.header_nav .main_nav LI A:hover {
+	COLOR: #ff9000; TEXT-DECORATION: none
+}
+.header_nav .main_nav .active A {
+	COLOR: #ff9000
+}
+.footer {
+	MIN-WIDTH: 1210px; PADDING-TOP: 80px
+}
+.footer .promise {
+	OVERFLOW: hidden
+}
+.promise .promise_list {
+	MARGIN-LEFT: 132px
+}
+.promise .promise_list LI {
+	TEXT-ALIGN: center; WIDTH: 140px; FONT-FAMILY: "ºÚÌå"; FLOAT: left; MARGIN-LEFT: 65px; FONT-SIZE: 20px; _display: inline
+}
+.promise .promise_list .first {
+	MARGIN-LEFT: 0px
+}
+.promise .promise_list I {
+	MARGIN: 0px auto 10px; WIDTH: 84px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/common_icon.png) no-repeat; HEIGHT: 84px
+}
+.promise .promise_list .wrie {
+	BACKGROUND-POSITION: -4px -171px
+}
+.promise .promise_list .design {
+	BACKGROUND-POSITION: -90px -171px
+}
+.promise .promise_list .install {
+	BACKGROUND-POSITION: -175px -171px
+}
+.promise .promise_list .ensure {
+	BACKGROUND-POSITION: -261px -171px
+}
+.promise .promise_list .enviro {
+	BACKGROUND-POSITION: -347px -171px
+}
+.footer .footer_info {
+	PADDING-BOTTOM: 10px; MARGIN-TOP: 25px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #3b3837; OVERFLOW: hidden; PADDING-TOP: 35px
+}
+.footer_info .serverbox {
+	PADDING-BOTTOM: 30px; ZOOM: 1; MARGIN-LEFT: 95px; OVERFLOW: hidden
+}
+.footer_info .serverbox DL {
+	MARGIN-TOP: -10px; FLOAT: left; COLOR: #e0d7d3; MARGIN-RIGHT: 90px
+}
+.footer_info .serverbox DT {
+	MARGIN-TOP: 10px; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.footer_info .serverbox DD {
+	MARGIN-TOP: 10px
+}
+.footer_info .serverbox DD A {
+	COLOR: #e0d7d3
+}
+.footer_info .serverbox DD A:hover {
+	COLOR: #ff9000
+}
+.footer_info .serverbox .social {
+	MARGIN-RIGHT: 0px
+}
+.footer_info .serverbox .tel_service {
+	WIDTH: 200px; MARGIN-RIGHT: 58px
+}
+.footer_info .serverbox .tel_service .tel {
+	MARGIN: 24px 0px 19px; FONT-FAMILY: "ºÚÌå"; COLOR: #fff; FONT-SIZE: 30px; FONT-WEIGHT: bold
+}
+.footer_info .serverbox .tel_service DD A {
+	LINE-HEIGHT: 38px; TEXT-INDENT: 30px; MARGIN: 5px 0px 8px; PADDING-LEFT: 49px; WIDTH: 151px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/header_top_icon.png) no-repeat -1px -59px; HEIGHT: 38px; COLOR: #fff; FONT-SIZE: 18px; TEXT-DECORATION: none
+}
+.footer_info .serverbox .tel_service DD A:hover {
+	BACKGROUND-POSITION: -1px -101px
+}
+.footer_info .serverbox .social DD {
+	POSITION: relative; WIDTH: 130px; BACKGROUND: #262524; HEIGHT: 38px; MARGIN-LEFT: 5px
+}
+.footer_info .serverbox .social DD P {
+	CURSOR: pointer
+}
+.footer_info .serverbox .social DD P:hover {
+	COLOR: #ff9000
+}
+.footer_info .serverbox .social DD A {
+	DISPLAY: block
+}
+.footer_info .serverbox .social DD A:hover {
+	TEXT-DECORATION: none
+}
+.footer_info .serverbox .social I {
+	POSITION: absolute; WIDTH: 5px; BACKGROUND: url(http://img.oppein.cn/images/common_icon.png) no-repeat; HEIGHT: 38px
+}
+.footer_info .serverbox .social .radius_l {
+	BACKGROUND-POSITION: -178px 0px; LEFT: -5px; _left: -4px
+}
+.footer_info .serverbox .social .radius_r {
+	BACKGROUND-POSITION: -189px 0px; RIGHT: -5px
+}
+.footer_info .serverbox .social SPAN {
+	POSITION: absolute; MARGIN: 0px; WIDTH: 30px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/common_icon.png) no-repeat; HEIGHT: 25px; TOP: 7px; LEFT: 0px
+}
+.footer_info .serverbox .social .wx {
+	BACKGROUND-POSITION: 0px -140px
+}
+.footer_info .serverbox .social .xl {
+	BACKGROUND-POSITION: -33px -140px
+}
+.footer_info .serverbox .social .tx {
+	BACKGROUND-POSITION: -68px -140px
+}
+.footer_info .serverbox .social P {
+	TEXT-ALIGN: center; BORDER-LEFT: #393836 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 38px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; HEIGHT: 38px; MARGIN-LEFT: 40px; PADDING-TOP: 0px
+}
+.footer_info .copyright {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; COLOR: #e0d7d3; BORDER-TOP: #716c6a 1px solid; PADDING-TOP: 25px
+}
+.footer_info .copyright P {
+	ZOOM: 1; MARGIN-BOTTOM: 10px
+}
+.copyright P.blogroll {
+	COLOR: #8d8a89
+}
+.copyright P.blogroll A {
+	COLOR: #8d8a89
+}
+.footer_info .copyright A {
+	COLOR: #e0d7d3
+}
+.footer_info .copyright A:hover {
+	COLOR: #ff9000
+}
+#guanzhu {
+	Z-INDEX: 999; BORDER-BOTTOM: #e5e5e5 1px solid; POSITION: absolute; BORDER-LEFT: #e5e5e5 1px solid; WIDTH: 290px; BACKGROUND: #fff; HEIGHT: 128px; OVERFLOW: hidden; BORDER-TOP: #e5e5e5 1px solid; TOP: 14px; BORDER-RIGHT: #e5e5e5 1px solid; LEFT: -94px
+}
+#guanzhu .local {
+	MARGIN-TOP: 20px; WIDTH: 152px; DISPLAY: block; HEIGHT: 90px; BORDER-RIGHT: #e6e6e6 1px solid
+}
+#guanzhu IMG {
+	POSITION: absolute; WIDTH: 90px; TOP: 20px; RIGHT: 20px
+}
+#guanzhu A {
+	LINE-HEIGHT: 35px; MARGIN: 0px 0px 20px 10px; WIDTH: 125px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/header_focus.png) no-repeat; HEIGHT: 35px; COLOR: #fff; BORDER-RIGHT: 0px
+}
+#guanzhu A:hover {
+	COLOR: #ff9000; TEXT-DECORATION: none
+}
+#guanzhu A EM {
+	MARGIN-LEFT: 50px
+}
+#guanzhu .top_tx {
+	BACKGROUND-POSITION: 0px -43px
+}
+#guanzhu_i {
+	Z-INDEX: 99; WIDTH: 60px; ZOOM: 1
+}
+#weixin_1 {
+	Z-INDEX: 99
+}
+#weixin_2 {
+	Z-INDEX: 10; POSITION: absolute; TEXT-ALIGN: center; WIDTH: 160px; DISPLAY: none; TOP: -30px; LEFT: -222px
+}
+#weixin_2 EM {
+	FONT-STYLE: normal
+}
+.consult_ser {
+	Z-INDEX: 998; POSITION: fixed; MARGIN-TOP: -107px; TOP: 50%; RIGHT: 15px
+}
+.consult_ser .ser_list LI {
+	POSITION: relative; WIDTH: 70px; MARGIN-BOTTOM: 5px; HEIGHT: 70px
+}
+.consult_ser .ser_list LI A {
+	BORDER-BOTTOM: #dedede 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: #dedede 1px solid; WIDTH: 70px; DISPLAY: block; BACKGROUND: #fff; HEIGHT: 70px; COLOR: #666666; BORDER-TOP: #dedede 1px solid; BORDER-RIGHT: #dedede 1px solid
+}
+.consult_ser .ser_list LI A EM {
+	FONT-STYLE: normal
+}
+.consult_ser .ser_list LI:first-child A EM {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 72px; BOTTOM: 0px; LEFT: 0px
+}
+.consult_ser .ser_list LI I {
+	MARGIN: 8px auto 0px; WIDTH: 52px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/consult_icon.png) no-repeat; HEIGHT: 40px
+}
+.consult_ser .ser_list LI .mobile_code {
+	POSITION: absolute; DISPLAY: none; TOP: -35px; LEFT: -260px
+}
+.consult_ser .ser_list LI A I.kf {
+	POSITION: absolute; WIDTH: 75px; BACKGROUND-POSITION: -242px -5px; HEIGHT: 65px; TOP: -24px; LEFT: 7px
+}
+.consult_ser .ser_list LI A I.design {
+	BACKGROUND-POSITION: -5px -2px
+}
+.consult_ser .ser_list LI A I.privilege {
+	BACKGROUND-POSITION: -122px -81px
+}
+.consult_ser .ser_list LI A I.book {
+	BACKGROUND-POSITION: -66px -4px
+}
+.consult_ser .ser_list LI A I.privi {
+	BACKGROUND-POSITION: -118px -4px
+}
+.consult_ser .ser_list LI A.go_up I {
+	BACKGROUND-POSITION: -172px -2px
+}
+.consult_ser .ser_list LI A I.bh {
+	MARGIN: 5px 0px 2px 12px; BACKGROUND-POSITION: -228px -77px
+}
+.consult_ser .ser_list LI A I.mobile {
+	MARGIN: 5px 0px 2px 15px; BACKGROUND-POSITION: -313px 2px
+}
+.consult_ser .ser_list LI I.go_top {
+	WIDTH: 80px; BACKGROUND-POSITION: -314px 0px; HEIGHT: 100px; CURSOR: pointer
+}
+.consult_ser .ser_list LI A:hover {
+	BORDER-BOTTOM: #ff900c 1px solid; BORDER-LEFT: #ff900c 1px solid; BACKGROUND: #ff6000; COLOR: #fff; BORDER-TOP: #ff900c 1px solid; BORDER-RIGHT: #ff900c 1px solid; TEXT-DECORATION: none
+}
+.consult_ser .ser_list LI A:hover .design {
+	BACKGROUND-POSITION: -5px -43px
+}
+.consult_ser .ser_list LI A:hover .privilege {
+	BACKGROUND-POSITION: -174px -81px
+}
+.consult_ser .ser_list LI A:hover .book {
+	BACKGROUND-POSITION: -67px -43px
+}
+.consult_ser .ser_list LI A:hover .privi {
+	BACKGROUND-POSITION: -118px -43px
+}
+.consult_ser .ser_list LI A:hover .bh {
+	BACKGROUND-POSITION: -271px -77px; MARGIN-LEFT: 11px
+}
+.consult_ser .ser_list LI A:hover .mobile {
+	BACKGROUND-POSITION: -313px -40px
+}
+.consult_ser .ser_list LI A.go_up:hover I {
+	BACKGROUND-POSITION: -172px -42px
+}
+.consult_ser .ser_list LI A.mobilecur {
+	BORDER-BOTTOM: #ff900c 1px solid; BORDER-LEFT: #ff900c 1px solid; BACKGROUND: #ff6000; COLOR: #fff; BORDER-TOP: #ff900c 1px solid; BORDER-RIGHT: #ff900c 1px solid; TEXT-DECORATION: none
+}
+.consult_ser .ser_list LI A.mobilecur .mobile {
+	BACKGROUND-POSITION: -313px -40px
+}
+.lim_float_icon {
+	DISPLAY: none
+}
+.mask {
+	DISPLAY: none
+}
+.mask A {
+	Z-INDEX: 9999; POSITION: absolute; MARGIN-TOP: -25px; TOP: 50%
+}
+.mask .mask_left {
+	LEFT: 10px
+}
+.mask .mask_right {
+	RIGHT: 10px
+}
+.mask SPAN {
+	FILTER: alpha(opacity="40"); WIDTH: 25px; DISPLAY: block; BACKGROUND: #000; HEIGHT: 50px; CURSOR: pointer; opacity: 0.4
+}
+.mask I {
+	POSITION: absolute; MARGIN-TOP: -11px; WIDTH: 12px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -133px 0px; HEIGHT: 22px; TOP: 50%; CURSOR: pointer; RIGHT: 6px
+}
+.mask .mask_left I {
+	BACKGROUND-POSITION: -121px 0px
+}
+.mask .mask_left:hover SPAN {
+	FILTER: alpha(opacity="60"); opacity: 0.6
+}
+.mask .mask_right:hover SPAN {
+	FILTER: alpha(opacity="60"); opacity: 0.6
+}
+.submit {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 46px; MARGIN: 0px auto; WIDTH: 350px; BACKGROUND: url(http://img.oppein.cn/images/btn_bg.png); HEIGHT: 46px
+}
+.submit_btn {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; WIDTH: 100%; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 45px; COLOR: #ffffff; FONT-SIZE: 24px; BORDER-TOP: 0px; CURSOR: pointer; BORDER-RIGHT: 0px
+}
+.submit_left {
+	POSITION: absolute; WIDTH: 5px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -22px -42px; HEIGHT: 46px; TOP: 0px; LEFT: 0px
+}
+.submit A:hover {
+	TEXT-DECORATION: none
+}
+.submit_right {
+	POSITION: absolute; WIDTH: 5px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/details_icon.png) -28px -42px; HEIGHT: 46px; TOP: 0px; RIGHT: 0px
+}
+.des_dialog {
+	Z-INDEX: 9998; POSITION: fixed; MARGIN: 0px -225px -175px 0px; WIDTH: 450px; BOTTOM: 50%; DISPLAY: none; HEIGHT: 350px; RIGHT: 50%
+}
+.des_dialog .later {
+	POSITION: absolute; BOTTOM: 32px; FONT-SIZE: 12px; TEXT-DECORATION: underline; LEFT: 190px
+}
+.errorSummary {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #ffa0a2; COLOR: red; MARGIN-RIGHT: 88px; PADDING-TOP: 10px
+}
+.errorSummary P {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.errorSummary UL {
+	MARGIN-LEFT: 20px
+}
+.applay_poup {
+	FONT-FAMILY: "Î¢ÈíÑÅºÚ"
+}
+.design_apply {
+	Z-INDEX: 1002; POSITION: fixed; MARGIN: -210px 0px 0px -190px; WIDTH: 380px; HEIGHT: 420px; FONT-SIZE: 12px; TOP: 50%; LEFT: 50%
+}
+.design_apply .design_bg {
+	FILTER: alpha(opacity=60); WIDTH: 380px; BACKGROUND: #999; HEIGHT: 420px; opacity: 0.6; border-radius: 5px
+}
+.design_apply .design_con {
+	POSITION: absolute; WIDTH: 370px; BACKGROUND: #fff; HEIGHT: 410px; TOP: 5px; LEFT: 5px
+}
+.design_con .design_tit {
+	TEXT-ALIGN: center; LINE-HEIGHT: 40px; BACKGROUND: #ff6c00; HEIGHT: 40px; COLOR: #fff; FONT-SIZE: 16px
+}
+.design_con .design_tit I {
+	POSITION: absolute; WIDTH: 20px; DISPLAY: block; BACKGROUND: url(http://img.oppein.cn/images/login_icon.png) no-repeat 0px -95px; HEIGHT: 20px; TOP: 10px; CURSOR: pointer; RIGHT: 10px
+}
+.design_con .design_info .post_info {
+	MARGIN: 25px auto 0px; WIDTH: 265px
+}
+.post_info .cont {
+	BORDER-BOTTOM: #c3c3c3 1px solid; BORDER-LEFT: #c3c3c3 1px solid; LINE-HEIGHT: 30px; MARGIN-TOP: 10px; TEXT-INDENT: 5px; WIDTH: 263px; HEIGHT: 30px; COLOR: #999; BORDER-TOP: #c3c3c3 1px solid; BORDER-RIGHT: #c3c3c3 1px solid
+}
+.post_info .cont:first-child {
+	
+}
+.design_info .sel_con {
+	MARGIN: 10px 0px; OVERFLOW: hidden
+}
+.sel_con .sel_bg {
+	BORDER-BOTTOM: #c3c3c3 1px solid; POSITION: relative; BORDER-LEFT: #c3c3c3 1px solid; LINE-HEIGHT: 30px; TEXT-INDENT: 10px; WIDTH: 114px; FLOAT: left; HEIGHT: 30px; FONT-SIZE: 12px; BORDER-TOP: #c3c3c3 1px solid; CURSOR: pointer; BORDER-RIGHT: #c3c3c3 1px solid
+}
+.sel_con .sel_bg:first-child {
+	MARGIN-RIGHT: 33px
+}
+.sel_con .sel_bg .sel {
+	POSITION: absolute; FILTER: alpha(opacity=0); WIDTH: 114px; HEIGHT: 30px; TOP: 0px; CURSOR: pointer; LEFT: 0px; opacity: 0
+}
+.sel_con .sel_bg .jt {
+	POSITION: absolute; BORDER-LEFT: #dedede 1px solid; WIDTH: 20px; DISPLAY: block; BACKGROUND: #f5f5f5; HEIGHT: 30px; TOP: 0px; RIGHT: 0px
+}
+.sel_con .sel_bg .jt I {
+	POSITION: absolute; BORDER-LEFT: transparent 6px solid; BORDER-TOP: #bfbfbf 8px solid; TOP: 11px; RIGHT: 4px; BORDER-RIGHT: transparent 6px solid
+}
+.design_info .demand {
+	MARGIN-TOP: 20px; COLOR: #000; OVERFLOW: hidden
+}
+.demand .demtit {
+	FONT-WEIGHT: bold
+}
+.demand .demand_list {
+	WIDTH: 229px
+}
+.demand .demand_list LI {
+	FLOAT: left; MARGIN-LEFT: 8px; CURSOR: pointer
+}
+.demand .demand_list LI:first-child {
+	MARGIN-LEFT: 0px
+}
+.demand .demand_list LI SPAN {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; WIDTH: 16px; DISPLAY: block; FLOAT: left; HEIGHT: 16px; BORDER-TOP: #cccccc 1px solid; MARGIN-RIGHT: 6px; BORDER-RIGHT: #cccccc 1px solid
+}
+.demand .demand_list LI.select SPAN {
+	BACKGROUND: url(http://img.oppein.cn/images/regist_icon.png) no-repeat -16px -183px
+}
+.demand .demand_list LI.others {
+	MARGIN-TOP: 10px; MARGIN-LEFT: 0px
+}
+.demand .demand_list LI.others SPAN {
+	MARGIN-TOP: 5px
+}
+.demand .demand_list LI .others_dem {
+	BORDER-BOTTOM: #bfbfbf 1px solid; BORDER-LEFT: #bfbfbf 1px solid; LINE-HEIGHT: 30px; TEXT-INDENT: 5px; WIDTH: 200px; HEIGHT: 30px; BORDER-TOP: #bfbfbf 1px solid; BORDER-RIGHT: #bfbfbf 1px solid
+}
+.design_info .desing_submit {
+	TEXT-ALIGN: center; MARGIN-TOP: 45px
+}
+.desing_submit .tips {
+	MARGIN-BOTTOM: 10px; COLOR: #f74c00
+}
+.desing_submit .des_sub {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; WIDTH: 160px; BACKGROUND: #ff6c00; HEIGHT: 35px; COLOR: #fff; BORDER-TOP: medium none; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: medium none; border-radius: 5px
+}
+.apply_sucess {
+	Z-INDEX: 1002; POSITION: fixed; MARGIN: -165px 0px 0px -240px; WIDTH: 480px; TOP: 50%; LEFT: 50%
+}
+.apply_sucess .sucess_bg {
+	FILTER: alpha(opacity=60); WIDTH: 480px; BACKGROUND: #999; HEIGHT: 335px; opacity: 0.6; border-radius: 5px
+}
+.apply_sucess .sucess_con {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 470px; BACKGROUND: #fff; HEIGHT: 325px; COLOR: #666; FONT-SIZE: 14px; TOP: 5px; LEFT: 5px
+}
+.sucess_con H3 {
+	MARGIN: 30px 0px 10px; COLOR: #000; FONT-SIZE: 18px; FONT-WEIGHT: normal
+}
+.sucess_con H3 I {
+	WIDTH: 35px; DISPLAY: inline-block; BACKGROUND: url(http://img.oppein.cn/images/login_icon.png) no-repeat 0px -50px; HEIGHT: 35px; VERTICAL-ALIGN: middle
+}
+.sucess_con P {
+	MARGIN-BOTTOM: 10px
+}
+.sucess_con .time {
+	COLOR: #ff6c00
+}

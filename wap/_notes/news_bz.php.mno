@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:news_id;datatype:int,name:news_time;datatype:date,name:news_title;datatype:string,name:news_jianje;datatype:string,name:message;datatype:string,name:news_editor;datatype:string,name:news_photo;datatype:string,name:news_photo1;datatype:string,name:news_photo2;datatype:string,name:news_top;datatype:int,name:news_content;datatype:blob,name:djs;datatype:int,name:bigtype;datatype:string,name:smalltype;datatype:string,name:newsph_top;datatype:int" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset2" value="name:id;datatype:int,name:pid;datatype:string,name:tel;datatype:string,name:day;datatype:string,name:sj_hao;datatype:string,name:info_top;datatype:string,name:s_price;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:pid;datatype:string,name:tel;datatype:string,name:theme;datatype:string,name:price;datatype:string,name:day;datatype:string,name:sj_hao;datatype:string,name:info_top;datatype:string,name:s_price;datatype:string,name:hfei;datatype:string,name:message;datatype:string,name:tszf;datatype:string,name:phpoto;datatype:string,name:info_editor;datatype:string,name:l_tel;datatype:string,name:wx;datatype:string,name:info_time;datatype:datetime,name:jlou;datatype:string" />
+</info>

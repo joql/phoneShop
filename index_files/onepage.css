@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+body,ul,ol,li,h1,h2,h3,h4,h5,h6,dl,dt,dd,input,p,span{ margin:0; padding:0; list-style:none;}
+a{text-decoration:none; color:#555;}
+a:hover{ text-decoration:none; color:#ff9800;}
+img{border:none;}
+.clear{clear:both; height:0px; line-height:0px;}
+.yellow{ color:#ff9800}
+.blue{ color:#6ab2fc}
+.red{ color:#e4000f;}
+.m10{ margin-bottom:10px;}
+.m20{ margin-bottom:20px;}
+.main01{ width:1190px; margin:0 auto 30px; font-family: "Microsoft Yahei";}
+.fl{ float:left}
+.fr{ float:right}
+
+.onepage_banner{ width:100%; height:250px; background:url(../images/onepage_banner.jpg) no-repeat; margin-top:45px;}
+.sidebar{ width:215px;}
+.sidebar h2{ height:48px; line-height:48px; text-align:center; border-top:1px solid #e4000f; border-bottom:1px solid #cbcbcb; font-size:22px; color:#e4000f}
+.sidebar ul li{ height:50px; line-height:50px; font-size:16px;}
+.sidebar ul li a{ display:block; width:215px; padding-left:53px;}
+p.tel{ width:140px; margin:0 auto; height:50px; line-height:50px; padding-left:40px; background:url(../images/onepage_icon.gif) no-repeat 0 10px; font-size:18px; color:#555}
+p.qq{width:140px; margin:0 auto; height:50px; line-height:50px; padding-left:40px; background:url(../images/onepage_icon.gif) no-repeat 0 -35px; font-size:18px;}
+p.qq a{ color:#555}
+.onepage{ width:930px;}
+.onepage_bt{ width:900px; height:50px; line-height:50px; background:#f3f3f3; border-left:10px solid #e4000f; padding-left:20px; color:#555; margin-bottom:10px;}
+.onepage_con{ line-height:260%; width: 930px; font-family:"Microsoft Yahei";
+  overflow-x: hidden;}
+.onepage_con p,.onepage_con span{font-family:"Microsoft Yahei";}
+.onepage_con img{ margin:0 auto ;}
+.onepage_con a{ color:#00C}
+.onepage_con a:hover{ text-decoration:none; color:#ff9800;}
+.ssks{margin-top:8px; margin-left:19px;}
+.sqjr a{ display:block; width:105px; height:40px; line-height:40px; text-align:center; background:#ff9800; color:#fff; margin-bottom:20px;}
+.sqjr a:hover{color:#fff;}
+.kashang{ border-top:1px dotted #cbcbcb;}
+.kashang li{ padding:15px 10px; border-bottom:1px dotted #cbcbcb; position:relative}
+.kashang li:hover{ background:#f5f4f4}
+.kashang li a{ display:block;}
+.kashang li img{ float:left;}
+.kashang li .kashang_r{ width:690px; float:right}
+.kashang li .kashang_r h3{ height:16px; line-height:16px; padding-left:20px; background:url(../images/icon_rz.gif) no-repeat;}
+.kashang li .kashang_r h3.vip1{ background-position: 0 -193px;}
+.kashang li .kashang_r h3.vip2{ background-position: 0 -97px;}
+.kashang li .kashang_r h3.vip3{ background-position: 0 -120px;}
+.kashang li .kashang_r h3.vip4{ background-position: 0 -143px;}
+.kashang li .kashang_r h3.vip5{ background-position: 0 -164px;}
+.kashang li .kashang_r .city{ font-size:12px; margin-bottom:10px;}
+.kashang li .kashang_r .kashang_js{ line-height:200%; font-size:14px;}
+.kashang_qq{ position:absolute; right:15px; bottom:125px;  }
+.shengfen{ padding:10px 0;}
+.shengfen li{ float:left; }
+.shengfen li a{ display:block; padding:0 10px;}
+.shengfen li a.on{ color: #FFF;
+  background-color: #fd9b28;}
+  
+/*.onepage_bt a{ color:#c00; padding-right:15px;}*/
+
+
+/*买号导航*/
+dl.mhdh{ width:930px; background:#f3f3f3; margin-bottom:20px;}
+dl.mhdh dt{ float:left; width:186px; height:162px; background:url(../images/mhdh.gif) no-repeat 0 0; font-size:14px; text-align:center; color:#fff; padding:0 15px; line-height:20px; }
+dl.mhdh dt.dh-two{ background-position:0 -172px; }
+dl.mhdh dt.dh-three{ background-position:0 -344px; }
+dl.mhdh dt.dh-four{background-position:0 -516px; }
+dl.mhdh dt.dh-five{background-position:0 -688px;  }
+dl.mhdh dt p{ font-size:30px; font-weight:bold; padding-top:35px; color:#fff; margin-bottom:20px;}
+
+dl.mhdh dd{ float:right; width:680px; padding-top:8px;}
+dl.mhdh dd .dh-a{ height:90px;}
+dl.mhdh dd .dh-a a{width:270px; float:left; font-size:16px; padding-left:10px; background:url(../images/jiant.gif) no-repeat left; color:#33F}
+dl.mhdh dd .dh-a a:hover{ color:#f00}
+dl.mhdh dd p{ color:#ff5e06; text-align:right; font-size:14px; padding-right:10px;}
+dl.mhdh dd p a{ display:inline-block;  background:#ff5e06; color:#fff; width:86px; height:25px; line-height:25px; text-align:center}

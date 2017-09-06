@@ -1,0 +1,27 @@
+.list-view-loading {
+	BACKGROUND: url(loading.gif) no-repeat
+}
+.list-view .summary {
+	TEXT-ALIGN: right; MARGIN: 0px 0px 5px
+}
+.list-view .sorter {
+	TEXT-ALIGN: right; MARGIN: 0px 0px 5px
+}
+.list-view .pager {
+	TEXT-ALIGN: right; MARGIN: 5px 0px 0px
+}
+.list-view .sorter {
+	FONT-SIZE: 0.9em
+}
+.list-view .sorter UL {
+	LIST-STYLE: none none outside; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+.list-view .sorter LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+.list-view .sorter A.asc {
+	PADDING-RIGHT: 10px; BACKGROUND: url(up.gif) no-repeat right center
+}
+.list-view .sorter A.desc {
+	PADDING-RIGHT: 10px; BACKGROUND: url(down.gif) no-repeat right center
+}

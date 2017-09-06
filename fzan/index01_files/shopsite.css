@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+.duli-banner{ width:100%; height:361px; background:url(../images/duli-banner.jpg) no-repeat center;}
+.duli-banner-con{ width:917px; height:91px; margin:0 auto; padding-top:270px; padding-left:273px;}
+
+.what{ width:100%; background:#fdfca2}
+.what-con{ width:1190px; margin:0 auto 30px;}
+.what01{ width:490px; float:left; margin-right:68px; padding-top:53px;}
+.what01-con{ line-height:1.5em; font-size:16px; color:#ff5a00; padding-top:37px; margin-bottom:23px;}
+.what02{ width:76px; float:left; background:url(../images/what02.png) no-repeat; height:290px; padding-top:40px;}
+.what02 p{ width:45px; height:52px; text-align:center; margin:0 auto 48px; color:#fff}
+.what03{ width:556px; float:right;height:330px;  background:url(../images/what03.png) no-repeat right;}
+
+.youshi{ width:1190px; margin:0 auto}
+.youshi-bt{ margin-bottom:30px;}
+.youshi-l,.youshi-r{ padding-top:20px; border-bottom:1px dashed #a8a8a8; padding-bottom:15px;}
+.youshi-l dt{ width:633px; float:left}
+.youshi-l dd{ width:484px; float:right; line-height:1.5em; padding-top:123px;}
+.youshi-l dd h4{ font-size:25px; color:#ff4606; margin-bottom:30px;}
+.youshi-r dt{ width:484px; float:left; line-height:1.5em; padding-top:123px;}
+.youshi-r dt h4{ font-size:25px; color:#ff4606; margin-bottom:30px;}
+.youshi-r dd{width:633px; float:right }
+.youshi-r dt span{ font-size:24px; color:#f00}
+
+.kaitong{ width:1190px; margin:0 auto; padding-top:70px; margin-bottom:70px;}
+.hy{ width:523px; height:268px; background:url(../images/hy.png) no-repeat; float:left}
+.fhy{ width:523px; height:268px; background:url(../images/fhy.png) no-repeat; float:right}
+.hy p,.fhy p{ width:360px; float:right; margin-top:135px; margin-right:25px; font-size:16px; line-height:2.2em; color:#ff4800}
+.hy img,.fhy img{ position:relative; top:-37px; left:320px;}
+
+.question{ width:100%; background:#f8f8f8; padding-bottom:20px;}
+.question-con{ width:1190px; margin:0 auto; padding-top:34px;}
+.question-bt{ width:425px; height:64px; margin:0 auto 40px;}
+dl.wenda{ padding-bottom:15px;}
+dl.wenda dt{ height:35px; width:1190px; background:#eaeaea; line-height:35px; font-size:16px;margin-bottom:15px;}
+dl.wenda dd{ line-height:2.0em; width:1190px;}
+dl.wenda dd a{ padding-right:15px; color:#00F}

@@ -1,0 +1,50 @@
+一、微信支付配制调试（官方PHPDemo）
+操作流程：
+1登录你的微信公众平台 点击打开左侧“微信支付”栏，打开后点“使用教程”，点扫码支付，或其它支付也行，然后看左侧栏目栏，左侧“sdk下载”，选php扫码原生Native支付API对应的SDK 下载即可。下载完后上传到服务器，这个必须在服务上调试。
+
+微信支付包。解压后，放到网站根目录里。原来的名字太长，重新命名为Wxpay
+
+2.注：开发文件包里的/wxpay/example 为测试目录
+
+微信公众平台后台里，打开“微信支付”栏，然后点击选择“开发配制”。
+
+1）打开后，下边有公众号支付分类栏 栏里有“测式授权目录”。在这里写上打开测试目录的网址。例：http://www.qiycl.com/wxpay/
+
+2）测试白名单里 添加上自个的白名单 测试微信号
+
+3）设置 扫码支付的 里的 支付回调URL  例：http://www.qiycl.com/wxpay/native_notify.php
+
+4)最上面的“支付授权目录” 先不管他。
+
+5)打开/wxpay/index.php文件 把里面各个支付的，链接网址：例如什么刷卡支付，扫码支付等，这些网址的链接全换成你的网址。如：            <li style="background-color:#8B6914"><a href="http://paysdk.weixin.qq.com/example/native.php">扫码支付</a></li>
+换成             <li style="background-color:#8B6914"><a href="http://www.qiycl.com/example/native.php">扫码支付</a></li>
+
+6)以上操作完，到lib文件夹里改一个配制文件.即 打开 WxPay.Config.php
+
+配制25-28行 即下面四行配制信息：
+
+const APPID = 'wx426b3015555a46be';
+const MCHID = '1900009851';
+const KEY = '8934e7d15453e97507ef794cf7b0519d';
+const APPSECRET = '7813490da6f1265e4901ffb80afaa36f';
+
+注:const APPID 和 const APPSECRET 在“开发者中心”-》“配制项->开发者ID” 里有显示.商户号在“微信支付”栏里有显示，这个栏目在往下，商户密钥也在这里的栏目 交易数据里 —》微信支付｜商户平台 输入这个栏目单独的账号，密码 登录后，点左侧APi安全 ，右侧api密钥，再点“设置密钥”注：此密钥随便怎么设但是必须是32位的。新密钥里可以输入phpmd5密数，即新密钥里框里填写上：phpmd5 即可。
+
+
+各部份含义解释如下：
+
+const APPID = 'wx426b3015555a46be'; 
+//APPID：绑定支付的APPID（必须配置，开户邮件中可查看）
+
+const MCHID = '1900009851';
+//MCHID：商户号（必须配置，开户邮件中可查看）
+
+const KEY = '8934e7d15453e97507ef794cf7b0519d';
+KEY：商户支付密钥，参考开户邮件设置（必须配置，登录商户平台自行设置）
+ * 设置地址：https://pay.weixin.qq.com/index.php/account/api_cert
+
+
+const APPSECRET = '7813490da6f1265e4901ffb80afaa36f';
+* APPSECRET：公众帐号secert（仅JSAPI支付的时候需要配置， 登录公众平台，进入开发者中心可设置），
+	 * 获取地址：https://mp.weixin.qq.com/advanced/advanced?action=dev&t=advanced/dev&token=2005451881&lang=zh_CN
+	 * @var string
